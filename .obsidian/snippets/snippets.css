@@ -1,0 +1,25 @@
+.mb-button.green-button > button {
+    color: white !important;
+    background-color: #4caf50 !important;
+    border: none !important;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: large;
+}
+
+/* Hide desktop-only buttons on iOS Safari/WebKit */
+@supports (-webkit-touch-callout: none) {
+    .mb-button.desktop-only {
+      display: none !important;
+    }
+  }
+  
+  /* Hide iOS-only buttons on devices that are NOT WebKit touch */
+  @supports not (-webkit-touch-callout: none) {
+    .mb-button.ios-only {
+      display: none !important;
+    }
+  }
+
+

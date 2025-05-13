@@ -4,10 +4,10 @@
 **Template:** [[Template, People]]
 
 ```meta-bind-button
-label: New Person D
+label: New Person Both
 icon: ""
 style: default
-class: "green-button desktop-only"
+class: "green-button"
 cssStyle: ""
 backgroundImage: ""
 tooltip: ""
@@ -21,32 +21,7 @@ actions:
     openNote: true
     openIfAlreadyExists: false
 ``` 
-```meta-bind-button
-label: New Person M
-icon: ""
-style: default
-class: "green-button ios-only"
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: ""
-hidden: false
-actions:
-  - type: templaterCreateNote
-    templateFile: ➕Extras/Templates/Template, People.md
-    folderPath: People
-    fileName: New Person
-    openNote: true
-    openIfAlreadyExists: false
-```
 # People
-```dataview
-table title
-where file.folder = "V-CXO/People"
-and !contains(tags, "#MOC")
-sort file.name asc
-```
-bob
 ```dataview
 table title
 from "V-CXO/People" and -#MOC

@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
+                "file": "V-CXO/People/New Person.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b51d93a296e864de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V-CXO/People/👥 People MOC.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "👥 People MOC"
+              "title": "New Person"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V-CXO/People/👥 People MOC.md",
+                "file": "V-CXO/People/New Person.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 👥 People MOC"
+              "title": "Backlinks for New Person"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V-CXO/People/👥 People MOC.md",
+                "file": "V-CXO/People/New Person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 👥 People MOC"
+              "title": "Outgoing links from New Person"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V-CXO/People/👥 People MOC.md",
+                "file": "V-CXO/People/New Person.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 👥 People MOC"
+              "title": "Outline of New Person"
             }
           }
         ],
@@ -186,18 +171,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b51d93a296e864de",
+  "active": "1a2f522ed16af065",
   "lastOpenFiles": [
+    "V-CXO/People/👥 People MOC.md",
+    "V-CXO/People/New Person.md",
+    "README.md",
+    "Test.md",
     "V-CXO/People/Uday Desai.md",
     "V-CXO/People/Dean Smith.md",
-    "V-CXO/People/👥 People MOC.md",
     "V-CXO/People/New Person 1.md",
-    "README.md",
     "V-CXO/+Home.md",
     "conflict-files-obsidian-git.md",
     "V-CXO/Companies/📈 Companies MOC.md",
     "untitled folder",
-    "V-CXO/People/New Person.md",
     "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "V-CXO/Bon.md",
     "V-CXO/Untitled.md",
@@ -216,7 +202,6 @@
     "V-CXO/Companies/Assuring Business.md",
     "V-CXO/Companies/📈 Companies MOC",
     "V-CXO/Companies",
-    "V-Align/Meetings/2025-05-13 TKTK.md",
     "Extras/People",
     "V-CXO/People",
     "V-CXO/➕Extras/Templates",

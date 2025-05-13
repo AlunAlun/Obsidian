@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "V-CXO/People/Test mobile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Test mobile"
             }
           }
         ]
@@ -167,9 +167,23 @@
   },
   "active": "39cca2014722c943",
   "lastOpenFiles": [
-    "V-CXO/+Home.md",
-    "V-CXO/People/Uday Desai.md",
+    "V-CXO/People/👥 People MOC.md",
+    "V-CXO/People/Test mobile.md",
+    "V-CXO/People/New Person 1.md",
+    "/V-CXO/➕Extras/Templates/Template, People.md",
+    "/V-CXO/➕Extras/Templates/Template, Companies.md",
+    "/V-CXO/➕Extras/Templates",
+    "/V-CXO/➕Extras",
+    "Test from mobile.md",
+    "Test.md",
+    "/V-CXO/People/New Person.md",
+    "/Test.md",
+    "/V-CXO/People/👥 People MOC.md",
+    "/V-CXO/People",
+    "/V-CXO",
     "README.md",
-    "V-CXO/People/👥 People MOC.md"
+    "/README.md",
+    "V-CXO/+Home.md",
+    "V-CXO/People/Uday Desai.md"
   ]
 }

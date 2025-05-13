@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-13 bob meeting.md",
+                "file": "V-CXO/+Home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-13 bob meeting"
+              "title": "+Home"
             }
           }
         ]
@@ -168,8 +168,8 @@
   "active": "39cca2014722c943",
   "lastOpenFiles": [
     "V-CXO/Meetings/🗣️ Meetings MOC.md",
-    "V-CXO/+Home.md",
     "V-CXO/Meetings/2025-05-13 bob meeting.md",
+    "V-CXO/+Home.md",
     "V-CXO/People/Bon.md",
     "V-CXO/People/👥 People MOC.md",
     "V-CXO/Companies/Bob co.md",

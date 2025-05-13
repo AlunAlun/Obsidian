@@ -6,7 +6,6 @@ email:
 aliases: 
 ---
 tags:: [[👥 People MOC]]
-
 # [[<% tp.file.title %>]]
 
 ## Notes

@@ -4,9 +4,6 @@ website: https://assuringbusiness.com/
 aliases:
 ---
 tags:: [[📈 Companies MOC]]
-
-# [[Assuring Business]]
-
 ## Notes
 - 
 

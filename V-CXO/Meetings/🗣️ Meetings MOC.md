@@ -19,12 +19,9 @@ actions:
     fileName: Meeting
     openNote: true
     openIfAlreadyExists: false
-
 ```
-# All Meetings
-
 ```dataview
-TABLE file.cday as Created, type, company, summary
+TABLE file.cday as "Date", type AS "Type", company AS "Company", summary AS "Summary"
 FROM "V-CXO/Meetings" and -#MOC
 SORT file.cday DESC
 ```

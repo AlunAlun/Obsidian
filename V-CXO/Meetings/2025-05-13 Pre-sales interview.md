@@ -6,9 +6,6 @@ summary: First call with Uday and Dean
 ---
 tags: [[🗣️ Meetings MOC]]
 Date: [[2025-05-13-Tuesday]]
-
-# [[2025-05-13 Pre-sales interview]]
-
 **Attendees**: 
 - [[Dean Smith]]
 - [[Uday Desai]]

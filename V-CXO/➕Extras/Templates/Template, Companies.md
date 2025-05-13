@@ -4,8 +4,6 @@ website:
 aliases: 
 ---
 tags:: [[📈 Companies MOC]]
-# [[<% tp.file.title %>]]
-
 ## Notes
 - 
 

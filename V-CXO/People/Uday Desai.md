@@ -6,9 +6,6 @@ email: uday@v-align.in
 aliases:
 ---
 tags:: [[👥 People MOC]]
-
-# [[Uday Desai]]
-
 ## Notes
 - IT industry 3 decades, from bangalore
 - Implemented banking software, programmer initially

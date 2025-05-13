@@ -6,9 +6,6 @@ email: dean@assuringbusiness.com
 aliases:
 ---
 tags:: [[👥 People MOC]]
-
-# [[Dean Smith]]
-
 ## Notes
 - 
 

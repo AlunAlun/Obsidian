@@ -21,10 +21,8 @@ actions:
     openIfAlreadyExists: false
 
 ```
-# All Companies
----
 ```dataview
-TABLE file.cday as Created, summary
+TABLE website AS "Website"
 FROM "V-CXO/Companies" and -#MOC
 SORT file.cday DESC
 ```

@@ -1,14 +1,11 @@
 ---
-location:
-website: 
-aliases: 
+location: Bangalore
+website: https://v-align.in
+aliases:
 ---
 tags:: [[📈 Companies MOC]]
-
-# [[V-Align]]
-
 ## Notes
-- 
+- See [[Uday Desai]] for company history notes
 
 ## People
 ```dataview

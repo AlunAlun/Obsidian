@@ -4,7 +4,7 @@
 **Template:** [[Template, People]]
 
 ```meta-bind-button
-label: New Person Both
+label: New Person
 icon: ""
 style: default
 class: "green-button"
@@ -21,9 +21,8 @@ actions:
     openNote: true
     openIfAlreadyExists: false
 ``` 
-# People
 ```dataview
-table title
+table company AS "Company", title AS "Title", email
 from "V-CXO/People" and -#MOC
 sort file.name asc
 ```

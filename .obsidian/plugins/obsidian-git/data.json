@@ -15,12 +15,21 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+<<<<<<< HEAD
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
+=======
+  "customMessageOnAutoBackup": true,
+  "autoBackupAfterFileChange": true,
+  "treeStructure": false,
+  "refreshSourceControl": false,
+  "basePath": "",
+  "differentIntervalCommitAndPush": true,
+>>>>>>> origin/main
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,

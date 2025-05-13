@@ -1,5 +1,5 @@
 [[+Home]] 
-tags:: #MOC
+%% tags:: #MOC %%
 
 **Template:** [[Template, People]]
 
@@ -42,15 +42,13 @@ actions:
 # People
 ```dataview
 table title
-where file.folder = "V-CXO/People" or file.folder = "People"
+where file.folder = "V-CXO/People"
 and !contains(tags, "#MOC")
 sort file.name asc
 ```
-
-
 bob
 ```dataview
-table file.name, tags
-where contains(file.folder, "V-CXO/People")
-
+table title
+from "V-CXO/People" and -#MOC
+sort file.name asc
 ```

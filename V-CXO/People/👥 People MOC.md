@@ -4,7 +4,7 @@ tags:: #MOC
 **Template:** [[Template, People]]
 
 ```meta-bind-button
-label: New Person Desktop
+label: New Person D
 icon: ""
 style: default
 class: "green-button desktop-only"
@@ -20,10 +20,9 @@ actions:
     fileName: New Person
     openNote: true
     openIfAlreadyExists: false
-```
-
+``` 
 ```meta-bind-button
-label: New Person Mobile
+label: New Person M
 icon: ""
 style: default
 class: "green-button ios-only"

@@ -39,7 +39,6 @@ actions:
     openNote: true
     openIfAlreadyExists: false
 ```
-
 # People
 ```dataview
 table title

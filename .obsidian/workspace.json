@@ -29,7 +29,7 @@
               "state": {
                 "file": "V-CXO/People/👥 People MOC.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "👥 People MOC"
@@ -188,11 +188,12 @@
   },
   "active": "b51d93a296e864de",
   "lastOpenFiles": [
+    "V-CXO/People/New Person 1.md",
+    "V-CXO/People/👥 People MOC.md",
     "README.md",
     "V-CXO/+Home.md",
     "conflict-files-obsidian-git.md",
     "V-CXO/Companies/📈 Companies MOC.md",
-    "V-CXO/People/👥 People MOC.md",
     "untitled folder",
     "V-CXO/People/New Person.md",
     "V-CXO/Meetings/🗣️ Meetings MOC.md",
@@ -216,7 +217,6 @@
     "V-CXO/Companies/📈 Companies MOC",
     "V-CXO/Companies",
     "V-Align/Meetings/2025-05-13 TKTK.md",
-    "Extras/People/Enter Name Here.md",
     "Extras/People",
     "V-CXO/People",
     "V-CXO/➕Extras/Templates",

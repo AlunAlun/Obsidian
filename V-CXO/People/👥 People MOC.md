@@ -46,3 +46,11 @@ where file.folder = "V-CXO/People" or file.folder = "People"
 and !contains(tags, "#MOC")
 sort file.name asc
 ```
+
+
+bob
+```dataview
+table file.name, tags
+where contains(file.folder, "V-CXO/People")
+
+```

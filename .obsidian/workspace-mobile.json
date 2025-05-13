@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "+Home"
             }
+          },
+          {
+            "id": "3aa7d2d7e8423537",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: data.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3366f115f5838014",
+  "active": "3aa7d2d7e8423537",
   "lastOpenFiles": [
-    "V-CXO/+Home.md",
     "conflict-files-obsidian-git.md",
+    "V-CXO/+Home.md",
     "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "V-CXO/Meetings/2025-05-13 bob meeting.md",
     "V-CXO/People/Bon.md",

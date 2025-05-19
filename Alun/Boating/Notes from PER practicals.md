@@ -114,7 +114,8 @@
 - **Reefing instead**: if loosening the vang doesn't do much to weather helm, you need to reef!
 ### Reefing
 - **As soon as you start considering it, do it**
-- **Which sail to reef first?**:  This depends on the board
-	- *Weather helm* : reefing the main will give more control
-	- 
+- **Which sail to reef first?**:  This depends on the boat
+	- *Weather helm (turning to wind)*: reefing the main
+	- *Lee helm (turning downwind)*: reef the headsail
+- **Reefing the mainsail is usually harder**: in storm conditions, reef the mainsail while you can, rolling the headsail
 

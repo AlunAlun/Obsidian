@@ -75,5 +75,9 @@
 - **Engage gear and drive away**
 
 # Raising sails
-- **Headsail**: Raise while engine is still on:
-	- Check for any hal
+- **Mainsail**: 
+	- Check wind strength and decide on any reefing
+	- Ensure main sheet is tight and main track is centred
+	- Check no tangles in furling halyard
+	- Raise main sail while engine is still on
+	- Adjust main sail to correct angle for wind

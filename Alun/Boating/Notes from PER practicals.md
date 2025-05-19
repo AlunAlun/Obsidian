@@ -8,7 +8,6 @@
 - **Fire extinguishers/blankets**: Check access and expiry
 - **First Aid Kit**: Check present and check type (A, B, C)
 - **Torch**: or MOB light
-
 ### Outer ship condition
 - **Hull**: Visual check of above water
 - **Through-hulls**: Check & open and close all sea-cocks to make sure they move, and check for any corrosion or leaks
@@ -25,6 +24,7 @@
 	- Raw water intake
 	- Fuel filter (should be full of green fuel, no clear water)
 - **Start** engine and listen and observe - you want it to warm up before leaving anyway
+- **Check water**: Make sure you hear and see water coming out from cooling system
 ### Electric
 - **Batteries**: Check and look for corrosion
 - **Levels**::
@@ -66,4 +66,6 @@
 # Leaving dock
 - **Check wind speed and direction**: sailing vessels have masts that are above port walls. Where will the ship blow to if unmoored?
 - **Look for tightest mooring line**: This will get untied first
-- **Release bow line**: 
+- **Start engine**: Start early to allow time to warm up
+- **Release bow line**
+- **Rele**

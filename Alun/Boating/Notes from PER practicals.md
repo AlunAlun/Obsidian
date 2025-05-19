@@ -16,8 +16,7 @@
 - **Bilge**: test manual, and if present, electric and automatic
 - **Rudder**: steer wheel fully to left and right, listen and feel for anything wrong
 - **Ladder**: For how to get out of water
-- **Anchor**: Inspect anchor and chain for corrosion. Check windlass works.
-
+- **Anchor**: Inspect anchor and chain for corrosion. Check windlass works. Check if second anchor present
 ### Engine
 - **Check**:
 	- Oil level
@@ -36,10 +35,15 @@
 - **Navigation lights**: switch them all on and make sure they work
 - **Navigation**: Check GPS, depth sounder, wind gauges
 - **Charts**: Check they are onboard for sailing region
-
 ### Tool and Repairs
 - **Tools**: Check if onboard
 - **Spare parts**: See what's available
-- 
+### Supplies
+- **Fuel**: Check tanks. If long journey, check backup jerry cans.
+- **Water**: Fill water to full from port supply
+- **Holding tank**: Check empty, and check valves are open.
+### Documentation
+- **Ship papers**: Where are they
+
 
 

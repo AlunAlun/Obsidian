@@ -118,5 +118,7 @@
 	- *Weather helm (turning to wind)*: reefing the main
 	- *Lee helm (turning downwind)*: reef the headsail
 - **Reefing the mainsail is usually harder**: in storm conditions, reef the mainsail while you can, rolling a roller headsail can be done from the cockpit
-### Hauii
+### Furling sails
+- **Direction**: Turn into wind and get in irons (10ish)
+- **Headsail**: 
 

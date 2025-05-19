@@ -62,10 +62,10 @@
 		- If calm seas, suggest outgoing watch offers to start making tea/coffee
 		- Outgoing watch should brief new watch member on transfer
 - **Food/Drink**: Make sure all crew has sufficient
-
 # Leaving dock
 - **Check wind speed and direction**: sailing vessels have masts that are above port walls. Where will the ship blow to if unmoored?
 - **Look for tightest mooring line**: This will get untied first
-- **Start engine**: Start early to allow time to warm up
+- **Start engine**: Start early to allow time to warm up. Check it sounds right and water is coming out of cooling system
 - **Release bow line**
-- **Rele**
+- **Release other lines slackest to tightest
+- **Engage gear and drive away**

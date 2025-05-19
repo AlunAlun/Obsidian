@@ -49,10 +49,14 @@
 	- Radio license/CE certification (only if going abroad)/Tax
 - **Crew Passports/IDs**: required for all port visits
 ### Crew briefing
-- **MOB**: Remind potential severity, brief on procedure
+- **MOB**: Remind potential severity, brief on procedure. Brief on lifejacket and harness use, maybe mandatory in high seas
 - **Collisions**: Remind potential severity/embarrassment; brief on how long a boat takes to sink
-- **Safety on board:**
 - **Emergency to captain**: Brief of use of channel 16
+- **Sea-sickness**: Remind to take pills now
+- **Watch**: 
+	- If required, organise rotas and roles. 
+	- Decide immediately before leaving port to allow crew to prepare mentally.
+- **Food/Drink**: Make sure all crew has sufficient
 
 
 

@@ -1,12 +1,12 @@
 # Pre-sail checklist
 ### Safety
-- Check **lifejackets** and harnesses
+- **Lifejackets** and harnesses for each crew member
 - **Liferaft** - it is tied to ship or not? Make note either way. If not tied to ship it should be tied before inflating.
-- Review how to undo **life-buoy** and check line condition
+- **Lifebuoy**Review how to undo, and check line condition
 
 ### Outer ship condition
-- Visual check of above water **hull**
-- Check **through-hulls** - open and close all sea-cocks to make sure they move, and check for any corrosion or leaks
+- **Hull**: Visual check of above water
+- **Through-hulls**: Check & open and close all sea-cocks to make sure they move, and check for any corrosion or leaks
 - Check that **hull-plugs** are present.
 - **Bilge** - test manual, and if present, electric and automatic
 - **Rudder** - steer wheel fully to left and right, listen and feel for anything wrong
@@ -29,4 +29,5 @@
 ### Comms and Navigation
 - **Radio**: make test call on marina channel (not 16)
 - **Navigation lights**: switch them all on and make sure they work
-- **Navigation**:
+- **Navigation**: Check GPS, depth sounder, wind gauges
+- **Charts**: Check they are onboard for sailing region

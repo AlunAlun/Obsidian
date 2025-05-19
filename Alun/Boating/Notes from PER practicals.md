@@ -16,6 +16,7 @@
 - **Rudder**: steer wheel fully to left and right, listen and feel for anything wrong
 - **Ladder**: For how to get out of water
 - **Anchor**: Inspect anchor and chain for corrosion. Check windlass works. Check if second anchor present
+- **Sails**: Check for any halyard locks on mast - these are present so winch cleats are not holding weight/pre
 ### Engine
 - **Check**:
 	- Oil level
@@ -69,3 +70,7 @@
 - **Release bow line**
 - **Release other lines slackest to tightest
 - **Engage gear and drive away**
+
+# Raising sails
+- **Headsail**: Raise while engine is still on:
+	- Check for any hal

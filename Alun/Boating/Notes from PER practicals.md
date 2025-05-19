@@ -97,7 +97,7 @@
 ### Mainsail Traveller 
 - **When to use it?**: When close-hauled or on a close reach.
 - **What is it?**:  A track that allows to change angle of pull (and thus keep sail shape) without adjust tension on main sheet
-- **Why use it?**: In stronger winds on a close-haul, the boat will heel over uncomfortably. Sheeting out will reduce heel but also cause the *boom to rise*,   losing sail power and speed. By adjusting the traveller to leeward, you *spill wind from lower part of sail* (so the boat heels less), but you *keep leach tension* to keep the sail full of wind. 
+- **Why use it?**: In stronger winds on a close-haul, the boat will heel over uncomfortably. Sheeting out will reduce heel but also cause the *boom to rise*,   losing sail power and speed. By adjusting the traveller to leeward, you *spill wind from the **bottom** of sail* (so the boat heels less), but you *keep leach tension* to keep the sail full of wind. 
 - **How to use it?**:
 	- **Super slight winds**: Lift traveller to windward - keeping boom on centerline with low sheet tension
 	- **Light winds (<8kn)**: Keep it in the middle (centerline), and keep sheet relatively loose to allow sail to fill
@@ -106,6 +106,7 @@
 - **Downwind**: Chuck the traveller fully out to leeward, but it won't do much. More important is mainsheet right out and boom vang super tight to pull sail down
 ### Vang
 - **What is it?**: The vang pulls down on the boom to stop it from raising. 
-- **Why use it?**:  When the boom rises, the mainsail spills wind at the top. This reduces weather helm (boat turning to wind). So if you're close-hauled and there is strong weather helm, consider loosening the vang - this will
+- **Why use it?**:  When the boom rises, the mainsail spills wind at the top. This reduces weather helm (boat turning to wind). 
+- **When to use it?**: On a close-haul and if there is strong weather helm, consider loosening the vang - this will keep the bulk of the sail full. *But *
 
 

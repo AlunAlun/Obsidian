@@ -96,5 +96,6 @@
 - **What is it?**:  A track that allows to change angle of pull (and thus keep sail shape) without adjust tension on main sheet
 - **Why use it?**: In stronger winds on a close-haul, the boat will heel over uncomfortably. Sheeting out will reduce heel but also cause the *boom to rise*,   losing sail power and speed. By adjusting the traveller to leeward, you *spill wind from lower part of sail* (so the boat heels less), but you *keep leach tension* to keep the sail full of wind. 
 - **How to use it?**:
-	- **Light winds (<8kn)**: Keep it in the middle (centerline)
-	- **Moderate winds (8-15kn)**: Maybe think about adjusting to leeward
+	- **Light winds (<8kn)**: Keep it in the middle (centerline), and keep sheet relatively loose to allow sail to fill.
+	- **Moderate winds (8-15kn)**: Maybe think about adjusting to leeward, tighten sheet a bit
+	- **Strong winds (>15kn)**: Move traveller to leeward, keep sheet tight.

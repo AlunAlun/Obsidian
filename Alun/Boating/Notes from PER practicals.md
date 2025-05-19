@@ -60,8 +60,10 @@
 		- Starts on the minute - you must be on-deck, dressed, and awake
 		- Suggest setting alarms for 15 mins before start
 		- If calm seas, suggest outgoing watch offers to start making tea/coffee
-		- Outgoing watch should brief new watch memee
+		- Outgoing watch should brief new watch member on transfer
 - **Food/Drink**: Make sure all crew has sufficient
 
-
-
+# Leaving dock
+- **Check wind speed and direction**: sailing vessels have masts that are above port walls. Where will the ship blow to if unmoored?
+- **Look for tightest mooring line**: This will get untied first
+- **Release bow line**: 

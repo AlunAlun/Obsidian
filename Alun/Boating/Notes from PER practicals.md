@@ -15,8 +15,11 @@
 - **Bilge**: test manual, and if present, electric and automatic
 - **Rudder**: steer wheel fully to left and right, listen and feel for anything wrong
 - **Ladder**: For how to get out of water
-- **Anchor**: Inspect anchor and chain for corrosion. Check windlass works. Check if second anchor present
-- **Sails**: Check for any halyard locks on mast - these are present so winch cleats are not holding weight/pre
+- **Anchor**: Inspect anchor and chain for corrosion. Check windlass works, if present. Check if second anchor present
+- **Sails**: 
+	- Check for any halyard locks on mast - these are present so winch cleats are not holding weight/pressure of whole sail
+	- Unfurl and furl first foot of both sails to make sure sheets are running well
+- **Winches/Cleats**: Check they turn and lock correctly
 ### Engine
 - **Check**:
 	- Oil level

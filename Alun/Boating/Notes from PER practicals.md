@@ -114,13 +114,7 @@
 - **Reefing instead**: if loosening the vang doesn't do much to weather helm, you need to reef!
 ### Reefing
 - **As soon as you start considering it, do it**
-- **Reef mainsail**: Reefing the headsail might make things worse. Don't reef the headsail until 3rd reef on mainsail
-
-|Wind Strength|Action|
-|---|---|
-|12–18 kn (gusty)|1st reef main|
-|18–25 kn|2nd reef main|
-|25–30 kn|3rd reef main (if available)|
-|20–30 kn & still heeling/rounding up|Partially furl jib or switch to smaller headsail|
-
+- **Which sail to reef first?**:  This depends on the board
+	- *Weather helm* : reefing the main will give more control
+	- 
 

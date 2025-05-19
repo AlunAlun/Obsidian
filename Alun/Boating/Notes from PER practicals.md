@@ -125,5 +125,6 @@
 	- Pull furling line while keeping tension on windward sheet (difficult if no crew)
 	- Cleat off furling line
 - **Mainsail**:
-	- 
+	- Uncleat furling line (check if extra cleat on mast)
+	- Pull furling line while keeping tension on sheet to ensure clean roll
 

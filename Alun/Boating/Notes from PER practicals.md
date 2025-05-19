@@ -43,7 +43,12 @@
 - **Water**: Fill water to full from port supply
 - **Holding tank**: Check empty, and check valves are open.
 ### Documentation
-- **Ship papers**: Where are they
+- **Ship Papers**:
+	- Registration
+	- Insurance
+	- Radio license/CE certification (only if going abroad)/Tax
+- **Crew Passports/IDs**: required for all port visits
+### Crew brief
 
 
 

@@ -1,10 +1,12 @@
 # Pre-sail checklist
 ### Safety
 - **Lifejackets** and harnesses for each crew member
-- **Liferaft** - Check inspection date. Is it tied to ship or not? Make note either way. If not tied to ship it should be tied before inflating.
+- **Liferaft** - Check inspection date. Is it tied to ship or not? Make note either way. If not tied to ship it should be tied before inflating
 - **Lifebuoy**: Review how to undo, and check line condition
 - **EPIRB**: Visual check and battery check
-- **Flares**:
+- **Flares**: Check quantity, colour (red/white/orange) and expiry dates
+- **Fire extinguishers/blankets**: Check access and expiry
+- **First Aid Kit**: Check present and check type (A, B, C)
 
 ### Outer ship condition
 - **Hull**: Visual check of above water
@@ -12,6 +14,8 @@
 - **Hull-plugs**: Check that are present.
 - **Bilge**: test manual, and if present, electric and automatic
 - **Rudder**: steer wheel fully to left and right, listen and feel for anything wrong
+- **Ladder**: For how to get out of water
+
 
 ### Engine
 - **Check**:

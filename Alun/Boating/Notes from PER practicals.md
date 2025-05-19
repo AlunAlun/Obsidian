@@ -48,7 +48,11 @@
 	- Insurance
 	- Radio license/CE certification (only if going abroad)/Tax
 - **Crew Passports/IDs**: required for all port visits
-### Crew brief
+### Crew briefing
+- **MOB**: Remind potential severity, brief on procedure
+- **Collisions**: Remind potential severity/embarrassment; brief on how long a boat takes to sink
+- **Safety on board:**
+- **Emergency to captain**: Brief of use of channel 16
 
 
 

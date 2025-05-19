@@ -103,5 +103,6 @@
 	- **Light winds (<8kn)**: Keep it in the middle (centerline), and keep sheet relatively loose to allow sail to fill
 	- **Moderate winds (or light + gusts) (8-15kn)**: Think about adjusting to leeward, tighten sheet a bit
 	- **Strong winds (>15kn)**: Move traveller to leeward, keep sheet tight.
+- **Downwind**: Chuck the traveller fully out to leeward, but it won't do much
 
 

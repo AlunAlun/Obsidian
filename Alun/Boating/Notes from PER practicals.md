@@ -10,11 +10,15 @@
 - **Bilge** - test manual, and if present, electric and automatic
 - **Rudder** - steer wheel fully to left and right, listen and feel for anything wrong
 
-### Propulsion and Electric
-- Check **engine**:
+### Engine
+- Check:
 	- Oil level
 	- Coolant level (not when engine is hot)
 	- Belts
 	- Raw water intake
 	- Fuel filter (should be full of green fuel, no clear water)
-- Start engine and listen and observe - you want it to warm up before leaving 
+- Start engine and listen and observe - you want it to warm up before leaving anyway
+
+### Electric and intruments
+- Check batteries and look for corrosion
+- Check battery levels

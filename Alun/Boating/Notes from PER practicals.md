@@ -85,4 +85,6 @@
 	- Check furling halyard cleat on leeward side is open
 	- Tidy furling halyard to ensure it runs smoothly
 	- Hoist jib sail and hawee the lads
-	- Turn engine off
+	- Turn engine off once both sails are up and at correct angle
+# Sailing
+- **Close-hauled**: Main at around 20ish degrees; jib should be super tight on the winch, with clew inside

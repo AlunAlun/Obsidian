@@ -111,6 +111,8 @@
 - **Opposites**: Think of the vang as the opposite of the traveller:
 	- A loose traveller spills wind from the *bottom* of the sail, reducing heel
 	- A loose vang spills wind from the *top* of the sail, reducing weather helm
-- **Reefing in**
+- **Reefing instead**: if loosening the vang doesn't do much to weather helm, you need to reef!
+### Reefing
+- **As soon as you start considering it, do it**
 
 

@@ -55,7 +55,12 @@
 - **Sea-sickness**: Remind to take pills now
 - **Watch**: 
 	- If required, organise rotas and roles. 
-	- Decide immediately before leaving port to allow crew to prepare mentally.
+	- Decide before leaving port to allow crew to prepare mentally.
+	- Set rules for watch:
+		- Starts on the minute - you must be on-deck, dressed, and awake
+		- Suggest setting alarms for 15 mins before start
+		- If calm seas, suggest outgoing watch offers to start making tea/coffee
+		- Outgoing watch should brief new watch memee
 - **Food/Drink**: Make sure all crew has sufficient
 
 

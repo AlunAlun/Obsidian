@@ -117,5 +117,6 @@
 - **Which sail to reef first?**:  This depends on the boat
 	- *Weather helm (turning to wind)*: reefing the main
 	- *Lee helm (turning downwind)*: reef the headsail
-- **Reefing the mainsail is usually harder**: in storm conditions, reef the mainsail while you can, rolling the headsail
+- **Reefing the mainsail is usually harder**: in storm conditions, reef the mainsail while you can, rolling a roller headsail can be done from the cockpit
+### Hauii
 

@@ -114,5 +114,6 @@
 - **Reefing instead**: if loosening the vang doesn't do much to weather helm, you need to reef!
 ### Reefing
 - **As soon as you start considering it, do it**
+- **Reef mainsail first**: Reefing the headsail might make 
 
 

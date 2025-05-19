@@ -106,6 +106,6 @@
 - **Downwind**: Chuck the traveller fully out to leeward, but it won't do much. More important is mainsheet right out and boom vang super tight to pull sail down
 ### Vang
 - **What is it?**: The vang pulls down on the boom to stop it from raising. 
-- **Why use it?**:  When the boom rises, the sail to lose wind at the 
+- **Why use it?**:  When the boom rises, the mainsail spills wind at the top. This reduces weather helm (boat turning to wind). So if you're close-hauled and there is strong weather helm, consider loosening the vang - this will
 
 

@@ -27,3 +27,6 @@
 	- Lithium: 13.3/13.7 fully charged
 
 ### Comms and Navigation
+- **Radio**: make test call on marina channel (not 16)
+- **Navigation lights**: switch them all on and make sure they work
+- **Navigation**:

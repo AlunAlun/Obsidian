@@ -119,6 +119,11 @@
 	- *Lee helm (turning downwind)*: reef the headsail
 - **Reefing the mainsail is usually harder**: in storm conditions, reef the mainsail while you can, rolling a roller headsail can be done from the cockpit
 ### Furling sails
-- **Direction**: Turn into wind and get in irons (10ish)
+- **Direction**: Turn into wind and get in irons (10-20 degrees)
 - **Headsail**: 
+	- Release the leeward sheet completely
+	- Pull furling line while keeping tension on windward sheet (difficult if no crew)
+	- Cleat off furling line
+- **Mainsail**:
+	- 
 

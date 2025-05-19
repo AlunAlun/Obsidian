@@ -105,6 +105,7 @@
 	- **Strong winds (>15kn)**: Move traveller to leeward, keep sheet tight.
 - **Downwind**: Chuck the traveller fully out to leeward, but it won't do much. More important is mainsheet right out and boom vang super tight to pull sail down
 ### Vang
-- **What is it?**: The vang controls boom tension and height? It raises or lowers the boom 
+- **What is it?**: The vang pulls down on the boom to stop it from raising. 
+- **Why use it?**:  When the boom rises, the sail to lose wind at the 
 
 

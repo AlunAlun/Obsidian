@@ -86,7 +86,11 @@
 	- Tidy furling halyard to ensure it runs smoothly
 	- Hoist jib sail and hawee the lads
 	- Turn engine off once both sails are up and at correct angle
+
 # Sailing
+### General sail positioning
 - **Close-hauled**: Main at around 15-20ish degrees; jib should be super tight on the winch, with clew *inside* of the safety rails
 - **Beam reach**: Main at around 30-40 degrees; jib clew hovering above safety rails
-- **Broad reach**: Main out as far as it can get
+- **Broad reach**: Main out as far as it can get; jib out beyond safety rails so it's catching as much wind as possible.
+### Traveler use
+- What is it 

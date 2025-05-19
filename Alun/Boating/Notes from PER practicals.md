@@ -107,6 +107,10 @@
 ### Vang
 - **What is it?**: The vang pulls down on the boom to stop it from raising. 
 - **Why use it?**:  When the boom rises, the mainsail spills wind at the top. This reduces weather helm (boat turning to wind). 
-- **When to use it?**: On a close-haul and if there is strong weather helm, consider loosening the vang - this will keep the bulk of the sail full. *But *
+- **When to use it?**: On a close-haul and if there is strong weather helm, consider loosening the vang - this will keep the bulk of the sail full. *But don't get cocky - if the vang doesn't work then reef!*
+- **Opposites**: Think of the vang as the opposite of the traveller:
+	- A loose traveller spills wind from the *bottom* of the sail, reducing heel
+	- A loose vang spills wind from the *top* of the sail, reducing weather helm
+- **Reefing in**
 
 

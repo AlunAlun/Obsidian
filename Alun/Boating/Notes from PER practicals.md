@@ -94,4 +94,7 @@
 - **Broad reach**: Main out as far as it can get; jib out beyond safety rails so it's catching as much wind as possible.
 ### The Traveller 
 - **What is it?**:  A track that allows to change angle of pull (and thus keep sail shape) without adjust tension on main sheet
-- **Why use it?**: In stronger winds on a close-haul, the boat will heel over uncomfortably. Sheeting out will reduce heel, but will lose sail power and speed. By adjusting the traveller to leeward, you reduce the 'pivot angle'
+- **Why use it?**: In stronger winds on a close-haul, the boat will heel over uncomfortably. Sheeting out will reduce heel, but will lose sail power and speed. By adjusting the traveller to leeward, you reduce the 'pivot angle' and thus the boat heels less, and the sail keeps an optimum angle to the wind
+- **How to use it?**:
+	- **Light winds (<8k)**: Keep it in the middle
+	- **Moderate winds (**

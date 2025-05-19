@@ -76,8 +76,13 @@
 
 # Raising sails
 - **Mainsail**: 
-	- Check wind strength and decide on any reefing
+	- Check wind strength and decide on any reefing; better be cautious while still under engine power
 	- Ensure main sheet is tight and main track is centred
 	- Check no tangles in furling halyard
 	- Raise main sail while engine is still on
 	- Adjust main sail to correct angle for wind
+- **Jibsail**
+	- Check furling halyard cleat on leeward side is open
+	- Tidy furling halyard to ensure it runs smoothly
+	- Hoist jib sail and hawee the lads
+	- Turn engine off

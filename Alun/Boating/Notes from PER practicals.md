@@ -7,6 +7,7 @@
 - **Flares**: Check quantity, colour (red/white/orange) and expiry dates
 - **Fire extinguishers/blankets**: Check access and expiry
 - **First Aid Kit**: Check present and check type (A, B, C)
+- **Torch**: or MOB light
 
 ### Outer ship condition
 - **Hull**: Visual check of above water
@@ -15,7 +16,7 @@
 - **Bilge**: test manual, and if present, electric and automatic
 - **Rudder**: steer wheel fully to left and right, listen and feel for anything wrong
 - **Ladder**: For how to get out of water
-
+- **Anchor**: Inspect anchor and chain for corrosion. Check windlass works.
 
 ### Engine
 - **Check**:
@@ -25,15 +26,20 @@
 	- Raw water intake
 	- Fuel filter (should be full of green fuel, no clear water)
 - **Start** engine and listen and observe - you want it to warm up before leaving anyway
-
 ### Electric
 - **Batteries**: Check and look for corrosion
 - **Levels**::
 	- Lead Acid: 12.6/12.7 fully charged. 12.2 uncharged.
 	- Lithium: 13.3/13.7 fully charged
-
 ### Comms and Navigation
 - **Radio**: make test call on marina channel (not 16)
 - **Navigation lights**: switch them all on and make sure they work
 - **Navigation**: Check GPS, depth sounder, wind gauges
 - **Charts**: Check they are onboard for sailing region
+
+### Tool and Repairs
+- **Tools**: Check if onboard
+- **Spare parts**: See what's available
+- 
+
+

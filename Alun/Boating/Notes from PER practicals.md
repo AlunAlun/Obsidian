@@ -104,6 +104,7 @@
 	- **Moderate winds (or light + gusts) (8-15kn)**: Think about adjusting to leeward, tighten sheet a bit
 	- **Strong winds (>15kn)**: Move traveller to leeward, keep sheet tight.
 - **Downwind**: Chuck the traveller fully out to leeward, but it won't do much. More important is mainsheet right out and boom vang super tight to pull sail down
--
+### Vang
+- **What is it?**: The vang controls boom tension and height? It raises or lowers the boom 
 
 

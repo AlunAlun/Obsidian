@@ -12,6 +12,6 @@ tags:: [[👥 People MOC]]
 ## Meetings
 ```dataview
 TABLE file.cday as Created, summary AS "Summary"
-FROM "Timestamps/Meetings" where contains(file.outlinks, [[]])
+FROM "V-CXO/Meetings" where contains(file.outlinks, [[]])
 SORT file.cday DESC
 ```

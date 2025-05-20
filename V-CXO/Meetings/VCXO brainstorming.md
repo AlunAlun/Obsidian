@@ -2,7 +2,7 @@
 date: 2025-05-20 14:31
 type: meeting
 company: "[[Assuring Business]]"
-summary: " "
+summary: Dean and I discussing initial ideas for V-CXO formal spin-off
 ---
 tags: [[🗣️ Meetings MOC]]
 Date: [[2025-05-20-Tuesday]]

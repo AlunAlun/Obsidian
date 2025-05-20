@@ -17,7 +17,8 @@ Date: [[2025-05-20-Tuesday]]
 - Partnerships: hiring firms, tech PS cos like accenture
 - Flavour what we offer based on who's on the books
 - Commissions scheme for people we bring in
-- Targetted pages fp
+- Targeted pages for ICPs and geographies
+- Maybe tiers of membership (lower margin if you're contributing to VCXOs)
 - Initial task: JTBD
 
 

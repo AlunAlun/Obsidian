@@ -16,7 +16,9 @@ Date: [[2025-05-20-Tuesday]]
 - 
 
 ## Notes
-- 
+- Ajit was worried about AI boom and getting money tied up
+- Need strategy and plan
+- Need reaction plan to changes
 
 ## AI Summary
 

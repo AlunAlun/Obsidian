@@ -22,6 +22,6 @@ Date: [[2025-05-20-Tuesday]]
 - Managed services - acquire a marketing agency and use it as a fractional resource
 - Initial task: JTBD
 - Dean wants to keep 66%
-- 
+- Maybe look into opening an S.L. as a vehicle to not pay wealth tax
 
 

@@ -19,6 +19,7 @@ Date: [[2025-05-20-Tuesday]]
 - Commissions scheme for people we bring in
 - Targeted pages for ICPs and geographies
 - Maybe tiers of membership (lower margin if you're contributing to VCXOs)
+- Managed services - acquire a marketing agency and use it as a fractional resource
 - Initial task: JTBD
 
 

@@ -16,8 +16,6 @@ Date: [[<% tp.date.now("YYYY-MM-DD-dddd") %>]]
 ## Notes
 - 
 
-## AI Summary
-
-
-## Transcript
+## Action Points
+- 
 

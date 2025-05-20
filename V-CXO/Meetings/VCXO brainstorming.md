@@ -23,5 +23,7 @@ Date: [[2025-05-20-Tuesday]]
 - Initial task: JTBD
 - Dean wants to keep 66% - come with a proposal to dean so I get >10%
 - Maybe look into opening an S.L. as a vehicle to not pay wealth tax
+- Next step: MOU within a couple of weeks
 
-
+## JTBD
+- prepare proposal to Dean for my %

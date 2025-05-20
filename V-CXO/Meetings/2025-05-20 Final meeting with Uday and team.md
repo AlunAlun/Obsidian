@@ -12,10 +12,8 @@ Date: [[2025-05-20-Tuesday]]
 - Ajid
 - [[Uday Desai]]
 
-## Agenda/Questions
-- 
-
 ## Notes
+- Basically a meeting to get to know each 
 - Ajit was worried about AI boom and getting money tied up
 - Need strategy and plan
 - Need reaction plan to changes

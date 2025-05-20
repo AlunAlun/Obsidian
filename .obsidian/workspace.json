@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/+Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20 Final meeting with Uday and team"
+              "title": "+Home"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-20 Final meeting with Uday and team"
+              "title": "Backlinks for +Home"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-05-20 Final meeting with Uday and team"
+              "title": "Outgoing links from +Home"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/+Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-20 Final meeting with Uday and team"
+              "title": "Outline of +Home"
             }
           }
         ],
@@ -188,10 +188,12 @@
   },
   "active": "c063cff56a5f4027",
   "lastOpenFiles": [
-    "V-CXO/People/Uday Desai.md",
-    "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
-    "V-CXO/Meetings/🗣️ Meetings MOC.md",
+    "V-CXO/Meetings/2025-05-20 Meeting.md",
     "V-CXO/+Home.md",
+    "V-CXO/People/Dean Smith.md",
+    "V-CXO/People/Uday Desai.md",
+    "V-CXO/Meetings/🗣️ Meetings MOC.md",
+    "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
     "Alun/Boating/Notes from PER practicals.md",
     "Untitled.md",
     "Alun/Boating",
@@ -210,12 +212,10 @@
     "V-CXO/➕Extras/Templates/Template, Companies.md",
     "V-CXO/➕Extras/Templates/Template, Meeting Note.md",
     "V-CXO/➕Extras/Templates/Template, People.md",
-    "V-CXO/People/Dean Smith.md",
     "V-CXO/Companies/V-Align.md",
     "V-CXO/Companies/Assuring Business.md",
     "V-CXO/People/Test mobile.md",
     "V-CXO/People/Dean smih.md",
-    "README.md",
     "untitled folder",
     "V-CXO/Companies/📈 Companies MOC",
     "V-CXO/Companies",

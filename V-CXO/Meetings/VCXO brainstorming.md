@@ -21,5 +21,7 @@ Date: [[2025-05-20-Tuesday]]
 - Maybe tiers of membership (lower margin if you're contributing to VCXOs)
 - Managed services - acquire a marketing agency and use it as a fractional resource
 - Initial task: JTBD
+- Dean wants to keep 66%
+- 
 
 

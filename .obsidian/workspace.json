@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alun/Boating/Notes from PER practicals.md",
-                "mode": "source",
+                "file": "V-CXO/+Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes from PER practicals"
+              "title": "+Home"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alun/Boating/Notes from PER practicals.md",
+                "file": "V-CXO/+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes from PER practicals"
+              "title": "Backlinks for +Home"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alun/Boating/Notes from PER practicals.md",
+                "file": "V-CXO/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes from PER practicals"
+              "title": "Outgoing links from +Home"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alun/Boating/Notes from PER practicals.md",
+                "file": "V-CXO/+Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes from PER practicals"
+              "title": "Outline of +Home"
             }
           }
         ],
@@ -188,14 +188,14 @@
   },
   "active": "c063cff56a5f4027",
   "lastOpenFiles": [
-    "V-CXO/+Home.md",
+    "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "Alun/Boating/Notes from PER practicals.md",
+    "V-CXO/+Home.md",
     "Untitled.md",
     "Alun/Boating",
     "Alun",
     "conflict-files-obsidian-git.md",
     "V-CXO/Meetings/2025-05-13 Test.md",
-    "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "V-CXO/Meetings/2025-05-13 bob meeting.md",
     "V-CXO/People/👥 People MOC.md",
     "V-CXO/People/Bon.md",

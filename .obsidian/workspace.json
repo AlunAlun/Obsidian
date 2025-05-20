@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/People/Uday Desai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20 Final meeting with Uday and team"
+              "title": "Uday Desai"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/People/Uday Desai.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-20 Final meeting with Uday and team"
+              "title": "Backlinks for Uday Desai"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/People/Uday Desai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-05-20 Final meeting with Uday and team"
+              "title": "Outgoing links from Uday Desai"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+                "file": "V-CXO/People/Uday Desai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-20 Final meeting with Uday and team"
+              "title": "Outline of Uday Desai"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "c063cff56a5f4027",
   "lastOpenFiles": [
-    "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "V-CXO/Meetings/2025-05-20 Final meeting with Uday and team.md",
+    "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "V-CXO/+Home.md",
     "Alun/Boating/Notes from PER practicals.md",
     "Untitled.md",

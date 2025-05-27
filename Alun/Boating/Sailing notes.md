@@ -116,6 +116,7 @@
 	- Check no tangles in furling halyard
 	- Raise main sail while engine is still on
 	- Adjust main sail to correct angle for wind
+	- Loosen *Topping Lift* because the main sail is takin
 - **Jibsail**
 	- Check furling halyard cleat on leeward side is open
 	- Tidy furling halyard to ensure it runs smoothly

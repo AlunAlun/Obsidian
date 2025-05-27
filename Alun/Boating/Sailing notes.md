@@ -160,11 +160,12 @@
 ### Furling sails
 - **Direction**: Turn into wind and get in irons (10-20 degrees)
 - **Engine**: Turn on and put into low forward gear
-- **Furling Headsail**: 
+- **Roller Headsail**: 
 	- Release the leeward sheet completely
 	- Pull furling line while keeping tension on windward sheet (difficult if no crew)
 	- Cleat off furling line
-- **Regular hailsail**: todo
+- **Regular headsail**:
+	- Cleat halyard to *mast cleat*. Loosen maincleat Leave halyard loose
 - **Mainsail**:
 	- Uncleat furling line (check if extra cleat on mast)
 	- Pull furling line while keeping tension on sheet to ensure clean roll

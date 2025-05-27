@@ -170,8 +170,12 @@
 	- Loosen mast cleat and control while pulling sail down - do not allow to fall into water
 	- Pull sail from *bottom* (below metal guides) - this allows quick raising in emergency
 - **Mainsail**:
-	- Roller mast:uUncleat furling line (check if extra cleat on mast)
-	- Pull furling line while keeping tension on sheet to ensure clean roll
+		
+	- Tighten *Lazy jacks* so sail falls neatly into Lazy Bag.
+	- On smaller yacht, cleat halyard to *mast cleat*. Loosen cockpit cleat
+	- Leave halyard loose and organised
+	- Loosen mast cleat and control while pulling sail down
+	- (Roller mast uncleat furling line - check if extra cleat on mast. Pull furling line while keeping tension on sheet to ensure clean roll)
 # Tacking
 - **Prepare**: 
 	- ensure downwind sheet is tidy and ready to release

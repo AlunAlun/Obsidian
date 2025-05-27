@@ -116,7 +116,7 @@
 	- Check no tangles in furling halyard
 	- Raise main sail while engine is still on
 	- Adjust main sail to correct angle for wind
-	- Loosen *Topping Lift* because the main sail is takin
+	- Loosen *Topping Lift* because the main sail is taking the weight of the boom now
 - **Jibsail**
 	- Check furling halyard cleat on leeward side is open
 	- Tidy furling halyard to ensure it runs smoothly
@@ -159,6 +159,7 @@
 - **Reefing the mainsail is usually harder**: in storm conditions, reef the mainsail while you can, rolling a roller headsail can be done from the cockpit
 ### Furling sails
 - **Direction**: Turn into wind and get in irons (10-20 degrees)
+- **Engine**: Turn on and put into low forward gear
 - **Furling Headsail**: 
 	- Release the leeward sheet completely
 	- Pull furling line while keeping tension on windward sheet (difficult if no crew)

@@ -165,9 +165,12 @@
 	- Pull furling line while keeping tension on windward sheet (difficult if no crew)
 	- Cleat off furling line
 - **Regular headsail**:
-	- Cleat halyard to *mast cleat*. Loosen maincleat Leave halyard loose
+	- On smaller yacht, cleat halyard to *mast cleat*. Loosen cockpit cleat
+	- Leave halyard loose and organised
+	- Loosen mast cleat and control while pulling sail down - do not allow to fall into water
+	- Pull sail from *bottom* (below metal guides) - this allows quick raising in emergency
 - **Mainsail**:
-	- Uncleat furling line (check if extra cleat on mast)
+	- Roller mast:uUncleat furling line (check if extra cleat on mast)
 	- Pull furling line while keeping tension on sheet to ensure clean roll
 # Tacking
 - **Prepare**: 

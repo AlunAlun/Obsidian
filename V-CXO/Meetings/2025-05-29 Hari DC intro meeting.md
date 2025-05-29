@@ -20,7 +20,11 @@ Date: [[2025-05-29-Thursday]]
 - Need to take from ideas to actionable plans
 - Interviewing key people/stakeholder interviews - 8-10 to get a sense of the business
 - Hari and I were design methodology starting from what he has
-- Of fees, 20% will go to FFE. 
+- Of fees, 20% will go to FFE. 80% shared between Hari and Alun. FFE pays air-travel
+- Slides:
+	- Hari start
+	- Alun does lab itself: slides 3-4
+	- 
 
 ## Action Points
 - 

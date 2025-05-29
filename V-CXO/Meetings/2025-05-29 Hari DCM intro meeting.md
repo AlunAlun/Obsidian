@@ -1,7 +1,7 @@
 ---
 date: 2025-05-29 17:08
-type: meeting
-company: "[[Assuring Business]]"
+type: Online
+company: "[[Fast Future Executive]]"
 summary: Hari introducing basic plan for DCM
 ---
 tags: [[🗣️ Meetings MOC]]

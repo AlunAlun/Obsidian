@@ -1,21 +1,18 @@
 ---
 date: 2025-05-29 17:08
 type: meeting
-company: 
-summary: " "
+company: "[[Assuring Business]]"
+summary: Hari introducing basic plan for DCM
 ---
 tags: [[🗣️ Meetings MOC]]
 Date: [[2025-05-29-Thursday]]
 
 **Attendees**: 
 - [[Hari Aburri]]
-
-## Agenda/Questions
-- 
-
 ## Notes
 - Head of Leadership development said to Hari: there is a Graduate leadershing training program (GET), every big companies hires from these. They are looking for their GETs to develop the next level of critical thinking skills. We need to know "what would be the profile" 
-- *How do we develop the next phase of engineering leadership for the company that can help develop ideas for growth?*. In the context of new tech like AI, new business models
+- *How do we develop the next phase of engineering leadership for the company that can help develop ideas for growth?*. In the context of new tech like AI, new business models etc.
+- GETs are usually very very clever, but rubbish at communication
 - Family run business, very traditional - once you're in, you're in, trust based sales process
 - Presentation to CHRO
 - Calibrate how we present, who presents which slides

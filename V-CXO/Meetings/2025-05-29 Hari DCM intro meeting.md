@@ -31,4 +31,6 @@ Date: [[2025-05-29-Thursday]]
 
 ## Action Points
 - Familiarise with Sections 3 and 4
+- Set up call Dean + Hari
+- 
 

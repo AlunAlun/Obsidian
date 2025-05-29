@@ -14,6 +14,7 @@ Date: [[2025-05-29-Thursday]]
 - 
 
 ## Notes
+- Head of Leadership development said to Hari: they had a Graduate training program, every big compan
 - Family run business, very traditional - once you're in, you're in, trust based sales process
 - Presentation to CHRO
 - Calibrate how we present, who presents which slides

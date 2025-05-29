@@ -23,9 +23,11 @@ Date: [[2025-05-29-Thursday]]
 - Of fees, 20% will go to FFE. 80% shared between Hari and Alun. FFE pays air-travel
 - Slides:
 	- Hari start
-	- Alun does lab itself: slides 3-4
-	- 
+	- Alun does lab itself: sections 3-4
+	- Hari does 5
+	- Both do 6
+	- Hari leads commercials
 
 ## Action Points
-- 
+- Familiarise with Sections 3 and 4
 

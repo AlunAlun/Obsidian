@@ -8,7 +8,7 @@ tags: [[🗣️ Meetings MOC]]
 Date: [[2025-05-29-Thursday]]
 
 **Attendees**: 
-- 
+- [[Hari Aburri]]
 
 ## Agenda/Questions
 - 
@@ -18,6 +18,8 @@ Date: [[2025-05-29-Thursday]]
 - Presentation to CHRO
 - Calibrate how we present, who presents which slides
 - Need to take from ideas to actionable plans
+- Interviewing key people/stakeholder interviews - 8-10 to get a sense of the business
+- Hari and I were design methodology starting from what he has
 
 ## Action Points
 - 

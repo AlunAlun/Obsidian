@@ -19,6 +19,8 @@ Date: [[2025-05-29-Thursday]]
 - Need to take from ideas to actionable plans
 - Interviewing key people/stakeholder interviews - 8-10 to get a sense of the business
 - Hari and I were design methodology starting from what he has
+- Likely to be max of 20 people. Better 15-20. If in groups, 4 groups max.
+- Can be done as individuals or groups, up to them.
 - Of fees, 20% will go to FFE. 80% shared between Hari and Alun. FFE pays air-travel
 - Slides:
 	- Hari start

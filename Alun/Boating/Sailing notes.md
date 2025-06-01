@@ -222,7 +222,7 @@
 	- Put foot on chain - can feel vibrations if anchor is dragging
 - **Swim and check on anchor**: if clear and warm enough!
 - **Hang out on boat for a 30-60 mins**: to check all is good
-- **Anchor type**: Spade or Rocna are best
+- **Anchor type**: *Ultra*, Spade or Rocna are best
 ### Weighing anchor
 - **Start engine**: electric windlass use a lot of power
 - **Motor ahead**: to take load of winch

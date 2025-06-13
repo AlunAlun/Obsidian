@@ -2,7 +2,7 @@
 date: 2025-06-13 17:41
 type: Online
 company: "[[Fast Future Executive]]"
-summary: Intro meeting between Hari and Dea
+summary: Intro meeting between Hari and Dean
 ---
 tags: [[🗣️ Meetings MOC]]
 Date: [[2025-06-13-Friday]]

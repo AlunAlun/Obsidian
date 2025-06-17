@@ -19,21 +19,6 @@ Dr. Alun Evans, Barcelona
 - Co-Author, The Fast Future Blur
 - Instructor, Caltech Future Skills Academy
 
-Dr. Alun has 20 years of experience in technology management product strategy, fundraising, and corporate leadership. As CEO, CTO, and Virtual CXO, he has led several multidisciplinary teams, and has a deep understanding of how modern digital workflows are used to create a results-drive collaborative environment. Alun is an experienced communicator teach executive strategy to international corporate companies and have spoken at over 50 international conferences.  
-► As an Engineer: I have a Ph.D. in Physics, multiple years’ experience in technical project management, and in-depth knowledge of engineering and software development, in multiple different programming languages.
+Dr. Alun has 20 years of experience in technology management product strategy, fundraising, and corporate leadership. As CEO, CTO, and Virtual CXO, he has led several multidisciplinary teams across multiple business sectors, and has a deep understanding of how modern digital workflows are used to create a results-drive collaborative environment. Alun is an experienced communicator with decades of training experience, teaching executive strategy to international corporate companies; he has spoken at over 50 international conferences. Alun is also a highly qualified engineer, with a Ph.D. in Physics, multiple years’ experience in technical project management, and in-depth knowledge of engineering and software development in multiple different programming languages.
 
-Dr. Alun has over 15 years' experience in the tech industry for entertainment,
-and has a strong passion for building teams with a strong collaborative
-
-culture, that are focused on creating products that solve genuine problems.
-
-He was previously CEO of Shar3d.io, a startup focusing on collaborative 3D
-
-applications on the web; CTO of Bodypal.com, a technology service that
-
-provided a virtual garment and fitting service, and Director of Barcelona
-
-World Race - THE GAME, the first ever video game that allowed players to
-
-compete in a simultaneous real-world sporting event.
 

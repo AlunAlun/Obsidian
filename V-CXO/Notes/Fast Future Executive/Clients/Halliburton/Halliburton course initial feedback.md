@@ -2,5 +2,7 @@ Slide 15: The flow wasn't clear to me upon first reading - only when I saw the n
 
 General comments on the modules: The images on the right of the 'second slide' for each module, are difficult to understand without reading the left hand side text in detail (the text in them is very small). Maybe number them and cross-reference them in the text?
 
-Module 5: I like that there are lots of buzzwords here, but when giving the session I would actually tie everything "back to basics" wrt internet communication. Maybe we can reference a single example use-case and thread all new concepts back to that one, thr
+Module 5: I like that there are lots of buzzwords here, but when giving the session I would actually tie everything "back to basics" wrt internet communication. Maybe we can reference a single example use-case and thread all new concepts back to that one, throughout all the modules? People like an analogy!
+
+
 

@@ -1,4 +1,4 @@
-General structure (slide): I think the modules are well structured and make sense. One thing that I think would help is to have a single thread that ties the whole thing together. One thought I had was to have a single 'example use-case' which we can bu
+General structure (slide): I think the modules are well structured and make sense. One thing that I think would help is to have a single thread that ties the whole thing together. One thought I had was to have a single 'example use-case' which we can build on as we progress through the modules. E.g. we follow the journey of a company in certain sector (aviation, healthcare, whatever) as it gradually transforms and adapts to the modern digital era? People like an analogy to ground what their learning into a real use case.
 
 
 The flow wasn't clear to me upon first reading - only when I saw the numbers did it begin to make sense. I wonder if reversing the slide to go top-down would help? Maybe make the numbering bigger? Also maybe draw horizontal lines/bands from the categories on the LHS? 

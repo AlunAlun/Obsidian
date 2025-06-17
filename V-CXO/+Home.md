@@ -12,6 +12,7 @@
 
 - [ ] Have a look at VCXOs website and make some suggestions for improvements. Reference assuring business
 - [ ] One article targeting 'virtual CXO' and one article with similar content targeting 'fractional CXO' - then do combined article on linkedIN that targets both
+- [ ] Find phrases or terminology that doesn't rank, write content on it to 
 - [ ] Wait for feedback from Uday 📅 2025-05-14
 
 

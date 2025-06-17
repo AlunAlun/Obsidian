@@ -9,26 +9,17 @@ Module 5: I like that there are lots of buzzwords here, but this module in parti
 
 My CV: Please see below an updated CV - both for use in this deck, and in wider usage (e.g. on the FFE site)
 
-Dr. Alun Evans 
+Dr. Alun Evans, Barcelona
 
-Barcelona
-
-Former CEO, Co-Founder, Freeverse.io
-
-20 years of experience in digital b
-
-Former CEO, Shar3d.com
-
-Ph.D. In Medical Physics
-
-Lectures At La Salle - Universitat Ramon Llull
-
-Co-Author, The Fast Future Blur
-
-Instructor, Caltech Future Skills Academy
+- Virtual CXO, AssuringBusiness.com
+- Former CEO, Co-Founder, Freeverse.io
+- 20 years of experience in digital business management
+- Former CEO, Shar3d.com
+- Ph.D. In Medical Physics
+- Co-Author, The Fast Future Blur
+- Instructor, Caltech Future Skills Academy
 
 Dr. Alun has over 15 years' experience in the tech industry for entertainment,
-
 and has a strong passion for building teams with a strong collaborative
 
 culture, that are focused on creating products that solve genuine problems.

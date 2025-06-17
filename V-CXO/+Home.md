@@ -10,9 +10,11 @@
 
 ## To-do
 
+- [ ] Propose what to write on LinkedIn - both for my page and VCXO page
 - [ ] Have a look at VCXOs website and make some suggestions for improvements. Reference assuring business
 - [ ] One article targeting 'virtual CXO' and one article with similar content targeting 'fractional CXO' - then do combined article on linkedIN that targets both
 - [ ] Find phrases or terminology that doesn't rank, write content on it to rank automatically. Reference those terms in LI articles etc.
+- [ ] Find relevant links to analyse how they are ranking highly
 - [ ] Wait for feedback from Uday 📅 2025-05-14
 
 

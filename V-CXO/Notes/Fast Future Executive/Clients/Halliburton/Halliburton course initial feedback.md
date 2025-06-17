@@ -19,9 +19,7 @@ Dr. Alun Evans, Barcelona
 - Co-Author, The Fast Future Blur
 - Instructor, Caltech Future Skills Academy
 
-Dr. Alun has 20 years of experience in technology management product strategy, fundraising, and corporate leadership. As CEO, CTO, and Head of Department, he has led several multidisciplinary teams, and has a deep understanding of how modern digital workflows are used to ensure efficient output. Al: Alun has considerable experience in product development for international markets: identifying Ideal Customer Profiles, driving customer-focused product features, and creating successful Go-To-Market strategies.  
-  
-► As a Communicator: I teach executive strategy to international corporate companies and have spoken at over 50 international conferences.  
+Dr. Alun has 20 years of experience in technology management product strategy, fundraising, and corporate leadership. As CEO, CTO, and Virtual CXO, he has led several multidisciplinary teams, and has a deep understanding of how modern digital workflows are used to create a results-drive collaborative environment. Alun is an experienced communicator teach executive strategy to international corporate companies and have spoken at over 50 international conferences.  
 ► As an Engineer: I have a Ph.D. in Physics, multiple years’ experience in technical project management, and in-depth knowledge of engineering and software development, in multiple different programming languages.
 
 Dr. Alun has over 15 years' experience in the tech industry for entertainment,

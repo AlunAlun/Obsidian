@@ -13,11 +13,17 @@ Dr. Alun Evans, Barcelona
 
 - Virtual CXO, AssuringBusiness.com
 - Former CEO, Co-Founder, Freeverse.io
-- 20 years of experience in digital business management
 - Former CEO, Shar3d.com
+- Former CTO, Bodypal.com
 - Ph.D. In Medical Physics
 - Co-Author, The Fast Future Blur
 - Instructor, Caltech Future Skills Academy
+
+Dr. Alun has 20 years of experience in technology management product strategy, fundraising, and corporate leadership. As CEO, CTO, and Head of Department, he has led several multidisciteams spread over multiple disciplines.  
+► As a Product Strategist: I have considerable experience in product development for international markets: identifying Ideal Customer Profiles, driving customer-focused product features, and creating successful Go-To-Market strategies.  
+► As a Fundraiser: I have raised over $20M in venture capital funding for three separate companies, and have a deep understanding of fundraising strategies, structures, and logistics.  
+► As a Communicator: I teach executive strategy to international corporate companies and have spoken at over 50 international conferences.  
+► As an Engineer: I have a Ph.D. in Physics, multiple years’ experience in technical project management, and in-depth knowledge of engineering and software development, in multiple different programming languages.
 
 Dr. Alun has over 15 years' experience in the tech industry for entertainment,
 and has a strong passion for building teams with a strong collaborative

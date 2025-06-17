@@ -9,16 +9,18 @@ Module 5: I like that there are lots of buzzwords here, but this module in parti
 
 My CV: Please see below an updated CV - both for use in this deck, and in wider usage (e.g. on the FFE site)
 
-Dr. Alun Evans, Barcelona
+**Dr. Alun Evans, Barcelona**
 
 - Virtual CXO, AssuringBusiness.com
-- Former CEO, Co-Founder, Freeverse.io
+- Former CEO & Co-Founder, Freeverse.io
 - Former CEO, Shar3d.com
 - Former CTO, Bodypal.com
-- Ph.D. In Medical Physics
-- Co-Author, The Fast Future Blur
+- Ph.D. Medical Physics
+- Co-Author, _The Fast Future Blur_
 - Instructor, Caltech Future Skills Academy
+    
+Dr. Alun Evans has over 20 years of experience in technology leadership, product strategy, fundraising, and corporate management. As CEO, CTO, and Virtual CXO, he has successfully led multidisciplinary teams across multiple sectors, with deep expertise in building scalable digital businesses and delivering results-driven collaborative environments. He has raised significant venture funding, driven product development across both startup and enterprise contexts, and advised companies on strategic growth.
 
-Dr. Alun has 20 years of experience in technology management product strategy, fundraising, and corporate leadership. As CEO, CTO, and Virtual CXO, he has led several multidisciplinary teams across multiple business sectors, and has a deep understanding of how modern digital workflows are used to create results-driven collaborative environments. Alun is an experienced communicator with decades of training experience, teaching executive strategy to international corporate companies; in addition, he has spoken at over 50 international conferences. Alun is also a highly qualified engineer, with a Ph.D. in Physics, multiple years’ experience in technical project management, and in-depth knowledge of engineering and software development in multiple different programming languages.
+An experienced communicator and educator, Alun has delivered executive training for international corporations and spoken at over 50 global conferences. With a Ph.D. in Physics and a strong technical foundation, he combines engineering, software development, and business leadership to bridge the gap between technology and strategic execution. His technical knowledge spans multiple programming languages, digital workflows, and emerging technologies.
 
 

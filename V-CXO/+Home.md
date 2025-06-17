@@ -10,7 +10,7 @@
 
 ## To-do
 
-- [ ] Have a look at VCXOs website and make some suggestions for improvements. Reference assurring business
+- [ ] Have a look at VCXOs website and make some suggestions for improvements. Reference assuring business
 - [ ] Wait for feedback from Uday 📅 2025-05-14
 
 

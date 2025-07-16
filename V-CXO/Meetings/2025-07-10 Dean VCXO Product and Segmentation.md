@@ -61,5 +61,5 @@ Eventually we'll need two whatsapp groups - one for us four (leadership) and one
 
 ## Action Points
 - Alun to take lead on organizing the meeting - and also lead the meeting session itself
-- Buy Traction by Geno Wickman
+- Buy Traction by Geno WickmanIT
 

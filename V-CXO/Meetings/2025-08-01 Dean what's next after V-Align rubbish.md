@@ -15,6 +15,7 @@ Date: [[2025-08-01-Friday]]
 - Key messages get repeated
 
 ## Action Points
-- Write product descriptions
+- Alun write product descriptions
 - Check if Google discriminates SEO based on British/American spelling
+- Dean to make draft MOU
 

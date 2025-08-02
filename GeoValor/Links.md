@@ -1,3 +1,7 @@
+https://www.asociacionaev.org/admin159753/uploads/uploads_doc/estandares/134449_Estandar_Sostenibilidad_Aprobacion_JD_20250723.pdf
+
+https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11815
+
 ## Fire
 Official link
 https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/incendios-forestales.html

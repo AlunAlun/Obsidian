@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Links"
             }
+          },
+          {
+            "id": "2ced92fc0de79bd2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d96f57c0955ca64",
+  "active": "2ced92fc0de79bd2",
   "lastOpenFiles": [
     "V-CXO/Meetings/2025-08-01 Dean what's next after V-Align rubbish.md",
     "V-CXO/Meetings/🗣️ Meetings MOC.md",

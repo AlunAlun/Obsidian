@@ -67,12 +67,14 @@
             "id": "2ced92fc0de79bd2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "V-CXO/Meetings/2025-08-22 Dean late august.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "2025-08-22 Dean late august"
             }
           }
         ],
@@ -229,8 +231,9 @@
   },
   "active": "2ced92fc0de79bd2",
   "lastOpenFiles": [
-    "V-CXO/Meetings/2025-08-01 Dean what's next after V-Align rubbish.md",
     "V-CXO/Meetings/🗣️ Meetings MOC.md",
+    "V-CXO/Meetings/2025-08-22 Dean late august.md",
+    "V-CXO/Meetings/2025-08-01 Dean what's next after V-Align rubbish.md",
     "GeoValor/Links.md",
     "V-CXO/+Home.md",
     "GeoValor/Fire",
@@ -262,7 +265,6 @@
     "V-CXO/Meetings/2025-05-13 Test.md",
     "V-CXO/Meetings/2025-05-13 bob meeting.md",
     "V-CXO/People/Bon.md",
-    "V-CXO/Companies/Bob co.md",
     "untitled folder",
     "V-CXO/Companies/📈 Companies MOC",
     "Alun/Pasted image 20230706132757.png",

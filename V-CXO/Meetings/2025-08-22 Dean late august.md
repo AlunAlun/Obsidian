@@ -12,6 +12,7 @@ Date: [[2025-08-22-Friday]]
 
 ## Notes
 - Alun to write article on Rohan's impact at Freeverse
+- Dean to write BPO/Shared Services at Zurich
 
 ## Action Points
 - 

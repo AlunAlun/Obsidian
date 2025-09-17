@@ -6,6 +6,9 @@ https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11815
 Official link
 https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/incendios-forestales.html
 
+Forest data
+https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/biodiversidad/mfe.html?utm_source=chatgpt.com
+
 
 Dataset
 https://zenodo.org/records/15798999

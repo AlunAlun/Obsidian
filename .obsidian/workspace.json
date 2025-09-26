@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GeoValor/Links.md",
+                "file": "V-CXO/+Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "+Home"
             }
           }
         ],
@@ -245,10 +245,10 @@
   },
   "active": "f33d96a78e2f70ed",
   "lastOpenFiles": [
+    "GeoValor/Links.md",
     "V-CXO/Meetings/2025-08-22 Dean late august.md",
     "V-CXO/Meetings/🗣️ Meetings MOC.md",
     "V-CXO/Meetings/2025-08-01 Dean what's next after V-Align rubbish.md",
-    "GeoValor/Links.md",
     "V-CXO/+Home.md",
     "GeoValor/Fire",
     "GeoValor",

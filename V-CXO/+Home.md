@@ -15,6 +15,7 @@
 - [x] Add Volcanic risk to Geotasa ✅ 2025-10-06
 - [x] Rupert meeting and deck ✅ 2025-10-06
 - [ ] Add links (AEV guidelines, new law, data sources page )
+- [ ] hide or fix desertification map
 
 
 

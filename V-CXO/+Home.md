@@ -10,9 +10,12 @@
 
 ## To-do
 
-- [x] Propose what to write on LinkedIn - both for my page and VCXO page ✅ 2025-06-19
-- [ ] Find chat's pages
-- [ ] make one test page with content
+- [ ] Send Freeverse emails
+- [ ] Send extra email to von Cranach to ask about OneFootball contact
+- [ ] Pull LAOS homepage and start making changes
+- [ ] Add Volcanic risk to Geotasa
+- [ ] Rupert meeting and deck
+- [ ] Ping 
 - [ ] 
 
 

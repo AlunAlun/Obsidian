@@ -10,8 +10,7 @@
 
 ## To-do
 
-- [ ] Send Freeverse emails
-- [ ] Send extra email to von Cranach to ask about OneFootball contact
+- [x] Send Freeverse emails ✅ 2025-10-06
 - [ ] Pull LAOS homepage and start making changes
 - [x] Add Volcanic risk to Geotasa ✅ 2025-10-06
 - [ ] Rupert meeting and deck

@@ -17,6 +17,13 @@
 - [ ] Add links (AEV guidelines, new law, data sources page )
 - [ ] hide or fix desertification map
 
-LAOS
+LAOS website
+- [ ] Title and subtitle
+- [ ] Prioritise Bitcoin in the 4 tabs
+- [ ] Update Benefits to include Bitcoin
+- [ ] Build page
+	- [ ] Title and subtitle
+	- [ ] Developer Resources - link to Bitcoin page
+	- [ ] 
 
 

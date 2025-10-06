@@ -13,10 +13,9 @@
 - [ ] Send Freeverse emails
 - [ ] Send extra email to von Cranach to ask about OneFootball contact
 - [ ] Pull LAOS homepage and start making changes
-- [ ] Add Volcanic risk to Geotasa
+- [x] Add Volcanic risk to Geotasa ✅ 2025-10-06
 - [ ] Rupert meeting and deck
-- [ ] Ping 
-- [ ] 
+
 
 
 

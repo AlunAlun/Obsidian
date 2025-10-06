@@ -11,11 +11,11 @@
 ## To-do
 
 - [x] Send Freeverse emails ✅ 2025-10-06
-- [ ] Pull LAOS homepage and start making changes
+- [x] Pull LAOS homepage and start making changes ✅ 2025-10-06
 - [x] Add Volcanic risk to Geotasa ✅ 2025-10-06
 - [x] Rupert meeting and deck ✅ 2025-10-06
 - [ ] Add links (AEV guidelines, new law, data sources page )
-- [ ] hide or fix desertification map
+- [x] hide or fix desertification map ✅ 2025-10-06
 
 LAOS website
 - [ ] Title and subtitle
@@ -28,8 +28,12 @@ LAOS website
 	- [ ] Update road-map
 	- [ ] remove MEXC from menu
 	- [ ] Token page - remove horizontal logos bar lower down
-	- [ ] Update top ticker text and link
+	- [ ] Update top ticker text and link - to refocus article
 
 Articles
-- [ ] deep dive o
+- [ ] Publish refocus article
+- [ ] deep dive on Bitcoin ordinals and runes
+- [ ] Deep dive on how BRC-721
+- [ ] Use cases of BRC-721 (inc costs)
+- [ ] Create twitter posts and schedule them
 

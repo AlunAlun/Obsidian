@@ -24,6 +24,12 @@ LAOS website
 - [ ] Build page
 	- [ ] Title and subtitle
 	- [ ] Developer Resources - link to Bitcoin page
-	- [ ] 
+	- [ ] Remove Use-cases from Main menu
+	- [ ] Update road-map
+	- [ ] remove MEXC from menu
+	- [ ] Token page - remove horizontal logos bar lower down
+	- [ ] Update top ticker text and link
 
+Articles
+- [ ] deep dive o
 

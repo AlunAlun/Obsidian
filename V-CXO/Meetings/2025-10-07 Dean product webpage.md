@@ -13,6 +13,8 @@ Date: [[2025-10-07-Tuesday]]
 ## Notes
 - Virtual team - maybe more of a temporary based thing
 - Managed service - outcome based, 'higher' than virtual team
+- Canva
+- Deposit photos
 
 ## Action Points
 - 

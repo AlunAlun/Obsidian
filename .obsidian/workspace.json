@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "+Home"
             }
+          },
+          {
+            "id": "a52041bf9ecdde57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f33d96a78e2f70ed",
+  "active": "a52041bf9ecdde57",
   "lastOpenFiles": [
     "GeoValor/Links.md",
     "V-CXO/+Home.md",

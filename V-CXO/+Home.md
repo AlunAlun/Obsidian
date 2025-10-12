@@ -10,16 +10,18 @@
 
 ## To-do
 
-- [x] Send Freeverse emails ✅ 2025-10-06
-- [x] Pull LAOS homepage and start making changes ✅ 2025-10-06
-- [x] Add Volcanic risk to Geotasa ✅ 2025-10-06
-- [x] Rupert meeting and deck ✅ 2025-10-06
+- [ ] Rupert deck
+- [ ] Sort out geotasa invites
+- [ ] Dean last page
+- [ ] LAOS - timeline, share with boys
+- [ ] Check martin response
 - [ ] Add links (AEV guidelines, new law, data sources page )
-- [x] hide or fix desertification map ✅ 2025-10-06
+
 
 LAOS website
 - [ ] Title and subtitle
 - [ ] Prioritise Bitcoin in the 4 tabs
+- [ ] Timeline
 - [ ] Update Benefits to include Bitcoin
 - [ ] Build page
 	- [ ] Title and subtitle

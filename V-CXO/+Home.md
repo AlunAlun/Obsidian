@@ -11,7 +11,7 @@
 ## To-do
 
 - [x] Rupert deck ✅ 2025-10-13
-- [ ] Sort out geotasa invites
+- [x] Sort out geotasa invites ✅ 2025-10-13
 - [ ] Dean last page
 - [x] LAOS - timeline, share with boys ✅ 2025-10-13
 - [ ] Add links (AEV guidelines, new law, data sources page )

@@ -10,11 +10,10 @@
 
 ## To-do
 
-- [ ] Rupert deck
+- [x] Rupert deck ✅ 2025-10-13
 - [ ] Sort out geotasa invites
 - [ ] Dean last page
-- [ ] LAOS - timeline, share with boys
-- [ ] Check martin response
+- [x] LAOS - timeline, share with boys ✅ 2025-10-13
 - [ ] Add links (AEV guidelines, new law, data sources page )
 
 

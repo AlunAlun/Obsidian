@@ -10,6 +10,8 @@
 
 ## To-do
 
+- [ ] Run
+- [ ] Expenses
 - [ ] Get chat to make LAOS content plan and publish first article
 - [ ] review v-align stuff with chat, finish doc and send to Dean
 - [ ] Start floor

@@ -10,26 +10,17 @@
 
 ## To-do
 
-- [ ] Robert John document
-- [ ] Add links (AEV guidelines, new law, data sources page )
+- [ ] Get chat to make LAOS content plan and publish first article
+- [ ] review v-align stuff with chat, finish doc and send to Dean
+- [ ] Start floor
+- [ ] 
 
 
-LAOS website
-- [ ] Title and subtitle
-- [ ] Prioritise Bitcoin in the 4 tabs
-- [ ] Timeline
-- [ ] Update Benefits to include Bitcoin
-- [ ] Build page
-	- [ ] Title and subtitle
-	- [ ] Developer Resources - link to Bitcoin page
-	- [ ] Remove Use-cases from Main menu
-	- [ ] Update road-map
-	- [ ] remove MEXC from menu
-	- [ ] Token page - remove horizontal logos bar lower down
-	- [ ] Update top ticker text and link - to refocus article
+
+
 
 Articles
-- [ ] Publish refocus article
+- [x] Publish refocus article ✅ 2025-10-26
 - [ ] deep dive on Bitcoin ordinals and runes
 - [ ] Deep dive on how BRC-721
 - [ ] Use cases of BRC-721 (inc costs)

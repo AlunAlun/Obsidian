@@ -18,7 +18,7 @@
 - [ ] Check page for who are we style
 - [ ] Post LAOS stuff after Toni review
 - [x] review v-align stuff with chat, finish doc and send to Dean ✅ 2025-10-27
-- [ ] Call insurance
+- [x] Call insurance ✅ 2025-10-27
 - [ ] Water interior plants
 - [x] Bathroom ant spray ✅ 2025-10-27
 - [ ] washing

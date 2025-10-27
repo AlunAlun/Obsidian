@@ -11,8 +11,10 @@
 ## To-do
 
 - [x] Run ✅ 2025-10-27
-- [ ] Expenses
+- [x] Expenses ✅ 2025-10-27
 - [x] Get chat to make LAOS content plan and publish first article ✅ 2025-10-27
+- [ ] Post LinkedIn article on VCXOs
+- [ ] Revise personal post for announcement tomorrow
 - [ ] Post LAOS stuff after Toni review
 - [x] review v-align stuff with chat, finish doc and send to Dean ✅ 2025-10-27
 - [ ] Call insurance

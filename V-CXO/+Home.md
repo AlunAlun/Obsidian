@@ -16,6 +16,7 @@
 - [ ] review v-align stuff with chat, finish doc and send to Dean
 - [ ] Call insurance
 - [ ] Water interior plants
+- [ ] Bathroom ant spray
 - [ ] Start floor
 - [ ] 
 

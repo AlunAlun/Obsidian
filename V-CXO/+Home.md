@@ -18,6 +18,7 @@
 - [ ] Call insurance
 - [ ] Water interior plants
 - [ ] Bathroom ant spray
+- [ ] washing
 - [ ] Start floor
 - [ ] 
 

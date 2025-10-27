@@ -21,7 +21,7 @@
 - [x] Call insurance ✅ 2025-10-27
 - [ ] Water interior plants
 - [x] Bathroom ant spray ✅ 2025-10-27
-- [ ] washing
+- [x] washing ✅ 2025-10-27
 - [ ] Start floor
 - [ ] 
 

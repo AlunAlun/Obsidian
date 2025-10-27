@@ -13,6 +13,7 @@
 - [x] Run ✅ 2025-10-27
 - [ ] Expenses
 - [ ] Get chat to make LAOS content plan and publish first article
+- [ ] Post LAOS stuff after Toni review
 - [ ] review v-align stuff with chat, finish doc and send to Dean
 - [ ] Call insurance
 - [ ] Water interior plants

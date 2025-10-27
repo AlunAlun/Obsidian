@@ -12,24 +12,14 @@
 
 - [ ] Ride
 - [ ] Post LinkedIn article on VCXOs
-- [x] Post VCXOs annou
-- [ ] Post LAOS stuff after Toni review
-- [x] review v-align stuff with chat, finish doc and send to Dean ✅ 2025-10-27
-- [x] Call insurance ✅ 2025-10-27
-- [ ] Water interior plants
-- [x] Bathroom ant spray ✅ 2025-10-27
-- [x] washing ✅ 2025-10-27
+- [ ] Post VCXOs announcement
+- [ ] Review then post LAOS stuff
+- [ ] Go to Leroy Merlin to buy scotia trim
+- [ ] Insurance guy at 10
 - [ ] Start floor
-- [ ] 
 
 
 
 
 
-Articles
-- [x] Publish refocus article ✅ 2025-10-26
-- [ ] deep dive on Bitcoin ordinals and runes
-- [ ] Deep dive on how BRC-721
-- [ ] Use cases of BRC-721 (inc costs)
-- [ ] Create twitter posts and schedule them
 

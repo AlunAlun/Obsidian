@@ -15,7 +15,7 @@
 - [x] Get chat to make LAOS content plan and publish first article ✅ 2025-10-27
 - [ ] Post LinkedIn article on VCXOs
 - [x] Revise personal post for announcement tomorrow ✅ 2025-10-27
-- [ ] Check page for who are we style
+- [x] Check page for who are we style ✅ 2025-10-27
 - [ ] Post LAOS stuff after Toni review
 - [x] review v-align stuff with chat, finish doc and send to Dean ✅ 2025-10-27
 - [x] Call insurance ✅ 2025-10-27

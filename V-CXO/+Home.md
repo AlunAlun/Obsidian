@@ -17,7 +17,7 @@
 - [x] review v-align stuff with chat, finish doc and send to Dean ✅ 2025-10-27
 - [ ] Call insurance
 - [ ] Water interior plants
-- [ ] Bathroom ant spray
+- [x] Bathroom ant spray ✅ 2025-10-27
 - [ ] washing
 - [ ] Start floor
 - [ ] 

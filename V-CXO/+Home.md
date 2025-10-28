@@ -11,7 +11,10 @@
 ## To-do
 
 - [ ] Leroy Merlin to buy scotia trim
-- [ ] Four 
+- [ ] Measure guitars on wall
+- [ ] Buy string swing hooks
+- [ ] Leroy Merlin Pine, long wood screws, and stain and brush
+- [ ] Climbing
 
 - [ ] Start floor
 

@@ -10,12 +10,9 @@
 
 ## To-do
 
-- [ ] Ride
-- [ ] Post LinkedIn article on VCXOs
-- [ ] Post VCXOs announcement
-- [ ] Review then post LAOS stuff
-- [ ] Go to Leroy Merlin to buy scotia trim
-- [ ] Insurance guy at 10
+- [ ] Leroy Merlin to buy scotia trim
+- [ ] Four 
+
 - [ ] Start floor
 
 

@@ -10,6 +10,7 @@
 
 ## To-do
 
+- [ ] Look at duplicated images on VCXO website
 - [ ] Leroy Merlin to buy scotia trim
 - [ ] Measure guitars on wall
 - [ ] Buy string swing hooks

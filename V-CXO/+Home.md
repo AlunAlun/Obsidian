@@ -16,6 +16,7 @@
 - [ ] Finish floor
 - [ ] shopping fuet wine
 - [ ] ride
+- [ ] call N+T
 
 
 

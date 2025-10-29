@@ -12,11 +12,10 @@
 
 - [ ] Post what is vcxo article on Li
 - [ ] Look at duplicated images on VCXO website
-- [ ] Leroy Merlin to buy scotia trim
-- [ ] Measure guitars on wall
+- [x] Leroy Merlin to buy scotia trim ✅ 2025-10-29
+- [x] Measure guitars on wall ✅ 2025-10-29
 - [ ] Buy string swing hooks
-- [ ] Leroy Merlin Pine, long wood screws, and stain and brush
-- [ ] Climbing
+
 
 - [ ] Start floor
 

@@ -11,10 +11,9 @@
 ## To-do
 
 - [x] Post what is vcxo article on Li ✅ 2025-10-30
-- [ ] Reply to 
 - [ ] Buy parasol cover off of amazon
 - [ ] Look at duplicated images on VCXO website
-- [ ] Buy string swing hooks and piano stool online
+- [ ] Buy piano stool online
 - [ ] Finish floor
 - [ ] shopping fuet wine
 

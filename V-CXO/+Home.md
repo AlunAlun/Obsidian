@@ -11,11 +11,12 @@
 ## To-do
 
 - [ ] Post what is vcxo article on Li
+- [ ] Buy parasol cover off of amazon
 - [ ] Look at duplicated images on VCXO website
 - [ ] Buy string swing hooks and piano stool online
 - [ ] Finish floor
 - [ ] shopping fuet wine
-- [ ] ride
+
 - [ ] call N+T
 
 

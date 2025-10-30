@@ -11,6 +11,7 @@
 ## To-do
 
 - [x] Post what is vcxo article on Li ✅ 2025-10-30
+- [ ] Revise VCXO intro deck
 - [ ] Buy parasol cover off of amazon
 - [ ] Look at duplicated images on VCXO website
 - [ ] Buy piano stool online

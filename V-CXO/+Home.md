@@ -19,6 +19,7 @@
 - [ ] Buy dog food
 - [ ] next VCXO article
 - [ ] Revise Geotasa costs and add to spreadsheet
+- [ ] Add geotasa costs to expenses
 - [ ] Thailand
 
 - [ ] Suggest modifying services page on VCXO website

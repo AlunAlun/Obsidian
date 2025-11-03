@@ -12,8 +12,11 @@
 
 
 - [ ] Revise VCXO intro deck
+- [ ] LAOS Article
+- [ ] Shopping inc clothes vodka
+- [ ] Buy dog food
+- [ ] next VCXO article
 
-- [ ] Buy parasol cover off of amazon
 - [ ] Look at duplicated images on VCXO website
 
 

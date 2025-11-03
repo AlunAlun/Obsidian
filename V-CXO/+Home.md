@@ -16,7 +16,9 @@
 - [ ] Shopping inc clothes vodka
 - [ ] Buy dog food
 - [ ] next VCXO article
+- [ ] Revise Geotasa costs and add to spreadsheet
 
+- [ ] Suggest modifying services page on VCXO website
 - [ ] Look at duplicated images on VCXO website
 
 

@@ -13,12 +13,13 @@
 
 - [ ] Revise VCXO intro deck
 - [ ] LAOS Invoice
-- [ ] Pay Fausto
+- [x] Pay Fausto ✅ 2025-11-03
 - [ ] LAOS Article
 - [ ] Shopping inc clothes vodka
 - [ ] Buy dog food
 - [ ] next VCXO article
 - [ ] Revise Geotasa costs and add to spreadsheet
+- [ ] Thailand
 
 - [ ] Suggest modifying services page on VCXO website
 - [ ] Look at duplicated images on VCXO website

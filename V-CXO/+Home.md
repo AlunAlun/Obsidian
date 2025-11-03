@@ -19,8 +19,8 @@
 - [x] Shopping inc clothes vodka ✅ 2025-11-03
 - [x] Buy dog food ✅ 2025-11-03
 - [ ] next VCXO article
-- [ ] Revise Geotasa costs and add to spreadsheet
-- [ ] Add geotasa costs to expenses
+- [x] Revise Geotasa costs and add to spreadsheet ✅ 2025-11-03
+- [x] Add geotasa costs to expenses ✅ 2025-11-03
 - [ ] Thailand
 
 - [ ] Suggest modifying services page on VCXO website

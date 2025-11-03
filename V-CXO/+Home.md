@@ -12,14 +12,14 @@
 
 - [x] Post what is vcxo article on Li ✅ 2025-10-30
 - [ ] Revise VCXO intro deck
-- [ ] Book with Jeremy Lefebre
+- [x] Book with Jeremy Lefebre ✅ 2025-11-03
 - [ ] Buy parasol cover off of amazon
 - [ ] Look at duplicated images on VCXO website
-- [ ] Buy piano stool online
-- [ ] Finish floor
-- [ ] shopping fuet wine
+- [x] Buy piano stool online ✅ 2025-11-03
+- [x] Finish floor ✅ 2025-11-03
+- [x] shopping fuet wine ✅ 2025-11-03
 
-- [ ] call N+T
+- [x] call N+T ✅ 2025-11-03
 
 
 

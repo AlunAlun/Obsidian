@@ -11,16 +11,14 @@
 ## To-do
 
 
+- [ ] Guitar hooks
+- [ ] Wax amp stand
+- [ ] Lunch with Phil
+- [ ] Climbing
 - [ ] Revise VCXO intro deck
-- [x] LAOS Invoice ✅ 2025-11-03
-- [x] Pay Fausto ✅ 2025-11-03
 - [ ] Book Gabi X-ray
 - [ ] Publish LAOS Article
-- [x] Shopping inc clothes vodka ✅ 2025-11-03
-- [x] Buy dog food ✅ 2025-11-03
-- [ ] next VCXO article
-- [x] Revise Geotasa costs and add to spreadsheet ✅ 2025-11-03
-- [x] Add geotasa costs to expenses ✅ 2025-11-03
+- [ ] next VCXO article post Dean review
 - [ ] Thailand
 
 - [ ] Suggest modifying services page on VCXO website

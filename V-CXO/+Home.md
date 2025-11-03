@@ -12,6 +12,8 @@
 
 
 - [ ] Revise VCXO intro deck
+- [ ] LAOS Invoice
+- [ ] Pay Fausto
 - [ ] LAOS Article
 - [ ] Shopping inc clothes vodka
 - [ ] Buy dog food

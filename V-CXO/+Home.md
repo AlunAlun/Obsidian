@@ -12,8 +12,9 @@
 
 
 - [ ] Revise VCXO intro deck
-- [ ] LAOS Invoice
+- [x] LAOS Invoice ✅ 2025-11-03
 - [x] Pay Fausto ✅ 2025-11-03
+- [ ] Book Gabi X-ray
 - [ ] LAOS Article
 - [ ] Shopping inc clothes vodka
 - [ ] Buy dog food

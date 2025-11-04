@@ -2,7 +2,7 @@
 date: 2025-11-04 10:13
 type: meeting
 company: "[[Slow Lettuce]]"
-summary: " "
+summary: First call with Jeremy regarding possible CXO
 ---
 tags: [[🗣️ Meetings MOC]]
 Date: [[2025-11-04-Tuesday]]
@@ -17,7 +17,8 @@ Date: [[2025-11-04-Tuesday]]
 
 ## Notes
 - Slow Lettuce is a group of freelancers incorporating soon
-- Wants to hire CPO 
+- Wants to hire CPO to Jeremy can focus on growing the business
+- Interested in fractional approach as company is not incorporated and could be good fit
 
 ## Action Points
 - Send Virtual CXO deck to Jeremy

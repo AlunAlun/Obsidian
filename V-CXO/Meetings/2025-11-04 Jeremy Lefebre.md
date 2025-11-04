@@ -1,7 +1,7 @@
 ---
 date: 2025-11-04 10:13
 type: meeting
-company: 
+company:
 summary: " "
 ---
 tags: [[🗣️ Meetings MOC]]

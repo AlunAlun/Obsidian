@@ -14,6 +14,7 @@ Date: [[2025-11-04-Tuesday]]
 - 
 
 ## Notes
+- CXO
 - 
 
 ## Action Points

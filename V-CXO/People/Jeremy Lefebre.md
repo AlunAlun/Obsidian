@@ -2,7 +2,7 @@
 location: Berlin
 company: "[[Slow Lettuce]]"
 title: CEO
-email:
+email: jeremy@slowlettuce.io
 aliases:
 ---
 tags:: [[👥 People MOC]]

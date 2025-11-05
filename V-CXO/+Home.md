@@ -13,7 +13,7 @@
 - [ ] VCXO deck and 1 pager for Jeremy
 - [ ] Revise VCXO intro deck
 - [ ] Book Gabi X-ray
-- [ ] Publish LAOS Article
+- [x] Publish LAOS Article ✅ 2025-11-05
 - [ ] next VCXO article post Dean review
 - [ ] Thailand
 

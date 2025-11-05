@@ -10,11 +10,8 @@
 
 ## To-do
 
-- [x] VCXO deck and 1 pager for Jeremy ✅ 2025-11-05
-- [x] Revise VCXO intro deck ✅ 2025-11-05
-- [x] Book Gabi X-ray ✅ 2025-11-05
-- [x] Publish LAOS Article ✅ 2025-11-05
-- [ ] next VCXO article post Dean review
+- [ ] Climbing
+- [ ] Post VCXO article post Dean feedback
 - [ ] Thailand
 
 - [ ] Suggest modifying services page on VCXO website

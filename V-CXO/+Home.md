@@ -10,11 +10,7 @@
 
 ## To-do
 
-
-- [ ] Guitar hooks
-- [ ] Wax amp stand
-- [ ] Lunch with Phil
-- [ ] Climbing
+- [ ] VCXO deck and 1 pager for Jeremy
 - [ ] Revise VCXO intro deck
 - [ ] Book Gabi X-ray
 - [ ] Publish LAOS Article

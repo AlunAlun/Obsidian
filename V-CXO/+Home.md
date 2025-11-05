@@ -10,8 +10,8 @@
 
 ## To-do
 
-- [ ] VCXO deck and 1 pager for Jeremy
-- [ ] Revise VCXO intro deck
+- [x] VCXO deck and 1 pager for Jeremy ✅ 2025-11-05
+- [x] Revise VCXO intro deck ✅ 2025-11-05
 - [ ] Book Gabi X-ray
 - [x] Publish LAOS Article ✅ 2025-11-05
 - [ ] next VCXO article post Dean review

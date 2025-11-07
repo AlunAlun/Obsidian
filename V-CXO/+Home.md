@@ -14,7 +14,9 @@
 - [ ] Post VCXO article post Dean feedback
 - [ ] Thailand
 
-- [ ] Suggest modifying services page on VCXO website
+
+
+- [ ] Add paragraph on Services page to describe different categories
 - [ ] Look at duplicated images on VCXO website
 
 

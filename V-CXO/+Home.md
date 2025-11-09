@@ -11,8 +11,8 @@
 ## To-do
 - [ ] Reply Jeremy
 - [ ] Call with Indians
-- [ ] Book wales
-- [ ] Reply Martín
+- [x] Book wales ✅ 2025-11-09
+- [x] Reply Martín ✅ 2025-11-09
 - [ ] LAOS article and tweets
 - [ ] Write new VCXO article - the blockchain one
 - [ ] Thailand

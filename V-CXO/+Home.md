@@ -11,6 +11,7 @@
 ## To-do
 - [x] Reply Jeremy ✅ 2025-11-10
 - [ ] Call with Indians
+- [ ] move session?
 - [x] Book wales ✅ 2025-11-09
 - [x] Reply Martín ✅ 2025-11-09
 - [ ] Publish LAOS article and tweets after Toni review

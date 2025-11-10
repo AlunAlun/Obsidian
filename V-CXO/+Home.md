@@ -15,7 +15,7 @@
 - [x] Reply Martín ✅ 2025-11-09
 - [ ] Publish LAOS article and tweets after Toni review
 - [ ] Write new VCXO article - the blockchain one
-- [ ] Research w
+- [ ] Research where to stay in Bangkok and book
 - [ ] Gabi Duolingo
 - [ ] Ride
 

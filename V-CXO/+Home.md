@@ -16,9 +16,10 @@
 - [ ] Contact fireplace company
 - [ ] Publish LAOS article and tweets after Toni review
 - [ ] Write new VCXO article - the blockchain one
-- [ ] Research where to stay in Bangkok and book
+- [ ] Check bouldering pads and shoe situation
 - [ ] Gabi Duolingo
-- [ ] Ride
+
+
 
 
 

@@ -10,7 +10,7 @@
 
 ## To-do
 - [x] Reply Jeremy ✅ 2025-11-10
-- [ ] Call with Indians
+- [x] Call with Indians ✅ 2025-11-11
 - [ ] move session?
 - [x] Book wales ✅ 2025-11-09
 - [x] Reply Martín ✅ 2025-11-09

@@ -20,6 +20,7 @@
 - [ ] Write new VCXO article - the blockchain one
 - [ ] Check bouldering pads and shoe situation
 - [ ] Gabi Duolingo
+- [x] Brosters and Sosters ✅ 2025-11-12
 
 
 

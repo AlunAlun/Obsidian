@@ -10,7 +10,7 @@
 
 ## To-do
 
-- [ ] Send proposal to Uday
+- [ ] Remind Uday about Testimonial this evening
 - [ ] Dishwasher
 - [x] Confirm Eugenia session ✅ 2025-11-12
 - [ ] Decathlon

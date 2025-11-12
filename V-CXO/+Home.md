@@ -15,7 +15,6 @@
 - [x] Confirm Eugenia session ✅ 2025-11-12
 - [ ] Decathlon
 - [x] Good wood question mark? ✅ 2025-11-12
-- [ ] Contact fireplace company
 - [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
 - [ ] Write new VCXO article - the blockchain one
 - [x] Check bouldering pads and shoe situation ✅ 2025-11-12

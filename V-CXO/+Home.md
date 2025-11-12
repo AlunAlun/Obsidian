@@ -16,7 +16,7 @@
 - [ ] Decathlon
 - [ ] Good wood question mark?
 - [ ] Contact fireplace company
-- [ ] Publish LAOS article and tweets after Toni review
+- [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
 - [ ] Write new VCXO article - the blockchain one
 - [ ] Check bouldering pads and shoe situation
 - [ ] Gabi Duolingo

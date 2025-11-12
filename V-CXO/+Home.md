@@ -13,7 +13,7 @@
 - [ ] Remind Uday about Testimonial this evening
 - [x] Dishwasher ✅ 2025-11-12
 - [x] Confirm Eugenia session ✅ 2025-11-12
-- [ ] Decathlon
+- [x] Decathlon ✅ 2025-11-12
 - [x] Good wood question mark? ✅ 2025-11-12
 - [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
 - [x] Write new VCXO article - the blockchain one ✅ 2025-11-12

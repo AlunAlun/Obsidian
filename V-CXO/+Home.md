@@ -16,7 +16,7 @@
 - [ ] Decathlon
 - [x] Good wood question mark? ✅ 2025-11-12
 - [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
-- [ ] Write new VCXO article - the blockchain one
+- [x] Write new VCXO article - the blockchain one ✅ 2025-11-12
 - [x] Check bouldering pads and shoe situation ✅ 2025-11-12
 - [x] Gabi Duolingo ✅ 2025-11-12
 - [x] Brosters and Sosters ✅ 2025-11-12

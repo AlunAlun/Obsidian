@@ -11,6 +11,7 @@
 ## To-do
 
 - [ ] Send proposal to Uday
+- [ ] Dishwasher
 - [ ] Confirm Eugenia session
 - [ ] Good wood question mark?
 - [ ] Contact fireplace company

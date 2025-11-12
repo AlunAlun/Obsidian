@@ -12,7 +12,7 @@
 
 - [ ] Send proposal to Uday
 - [ ] Dishwasher
-- [ ] Confirm Eugenia session
+- [x] Confirm Eugenia session ✅ 2025-11-12
 - [ ] Decathlon
 - [ ] Good wood question mark?
 - [ ] Contact fireplace company

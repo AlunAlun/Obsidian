@@ -18,7 +18,7 @@
 - [ ] Contact fireplace company
 - [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
 - [ ] Write new VCXO article - the blockchain one
-- [ ] Check bouldering pads and shoe situation
+- [x] Check bouldering pads and shoe situation ✅ 2025-11-12
 - [ ] Gabi Duolingo
 - [x] Brosters and Sosters ✅ 2025-11-12
 

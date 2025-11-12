@@ -13,6 +13,7 @@
 - [ ] Send proposal to Uday
 - [ ] Dishwasher
 - [ ] Confirm Eugenia session
+- [ ] Decathlon
 - [ ] Good wood question mark?
 - [ ] Contact fireplace company
 - [ ] Publish LAOS article and tweets after Toni review

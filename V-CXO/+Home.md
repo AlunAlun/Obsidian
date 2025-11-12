@@ -11,10 +11,10 @@
 ## To-do
 
 - [ ] Remind Uday about Testimonial this evening
-- [ ] Dishwasher
+- [x] Dishwasher ✅ 2025-11-12
 - [x] Confirm Eugenia session ✅ 2025-11-12
 - [ ] Decathlon
-- [ ] Good wood question mark?
+- [x] Good wood question mark? ✅ 2025-11-12
 - [ ] Contact fireplace company
 - [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
 - [ ] Write new VCXO article - the blockchain one

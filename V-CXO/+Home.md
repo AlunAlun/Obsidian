@@ -12,10 +12,13 @@
 
 - [ ] Remind Uday/Deepa about Testimonial
 - [ ] Check Santi Freeverse email and schedule final board
-- [ ] Draft new LAOS article and check soc
-- [ ] 
+- [ ] Draft new LAOS article and check socials
+- [ ] Chat to Dean
+	- [ ] V-Align strategy
+	- [ ] Articles
 
 
+- [ ] Chase John⏳ 2025-11-18 
 
 
 

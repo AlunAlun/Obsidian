@@ -10,6 +10,7 @@
 
 ## To-do
 
+- [ ] Write to school to say Gabi hospital
 - [ ] Call washing machine people
 - [ ] Remind Uday/Deepa about Testimonial
 - [ ] Check Santi Freeverse email and schedule final board

@@ -10,16 +10,11 @@
 
 ## To-do
 
-- [ ] Remind Uday about Testimonial this evening
-- [x] Dishwasher ✅ 2025-11-12
-- [x] Confirm Eugenia session ✅ 2025-11-12
-- [x] Decathlon ✅ 2025-11-12
-- [x] Good wood question mark? ✅ 2025-11-12
-- [x] Publish LAOS article and tweets after Toni review ✅ 2025-11-12
-- [x] Write new VCXO article - the blockchain one ✅ 2025-11-12
-- [x] Check bouldering pads and shoe situation ✅ 2025-11-12
-- [x] Gabi Duolingo ✅ 2025-11-12
-- [x] Brosters and Sosters ✅ 2025-11-12
+- [ ] Remind Uday/Deepa about Testimonial
+- [ ] Check Santi Freeverse email and schedule final board
+- [ ] Draft new LAOS article and check soc
+- [ ] 
+
 
 
 

@@ -10,6 +10,8 @@
 
 ## To-do
 
+- [ ] Fill flight details passport etc for Thailand
+- [ ] Confirm Ziggy Booking
 - [ ] Write to school to say Gabi hospital
 - [ ] Call washing machine people
 - [ ] Remind Uday/Deepa about Testimonial

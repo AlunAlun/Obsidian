@@ -10,6 +10,7 @@
 
 ## To-do
 
+- [ ] Call washing machine people
 - [ ] Remind Uday/Deepa about Testimonial
 - [ ] Check Santi Freeverse email and schedule final board
 - [ ] Draft new LAOS article and check socials

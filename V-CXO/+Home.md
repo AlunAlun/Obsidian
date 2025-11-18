@@ -11,20 +11,18 @@
 ## To-do
 
 - [x] Fill flight details passport etc for Thailand ✅ 2025-11-18
+- [ ] Make Blockchain article into whitepaper
 - [ ] Find another boiler person
 - [ ] GPT for auto deck analysis
 	- [ ] landing page for deck analysis
 - [x] Call Covisa ✅ 2025-11-18
-- [x] Confirm Ziggy Booking ✅ 2025-11-18
+- [ ] Chase Ziggy Booking
 - [ ] Megamenu - Dean
-- [x] Write to school to say Gabi hospital ✅ 2025-11-18
-- [x] Call washing machine people ✅ 2025-11-18
+
 - [ ] Email Uday thanks and proposal
-- [x] Check Santi Freeverse email and schedule final board ✅ 2025-11-18
-- [ ] Draft new LAOS article and check socials
-- [x] Chat to Dean ✅ 2025-11-18
-	- [ ] V-Align strategy
-	- [ ] Articles
+
+- [ ] Chase Toni new LAOS article and check socials
+
 
 
 - [ ] Chase John⏳ 2025-11-18 

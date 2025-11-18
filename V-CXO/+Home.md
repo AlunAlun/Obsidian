@@ -17,7 +17,7 @@
 - [x] Call Covisa ✅ 2025-11-18
 - [x] Confirm Ziggy Booking ✅ 2025-11-18
 - [ ] Megamenu - Dean
-- [ ] Write to school to say Gabi hospital
+- [x] Write to school to say Gabi hospital ✅ 2025-11-18
 - [x] Call washing machine people ✅ 2025-11-18
 - [ ] Email Uday thanks and proposal
 - [x] Check Santi Freeverse email and schedule final board ✅ 2025-11-18

@@ -12,6 +12,8 @@
 
 - [ ] Fill flight details passport etc for Thailand
 - [ ] Find another boiler person
+- [ ] GPT for auto deck analysis
+	- [ ] landing page for deck analysis
 - [x] Call Covisa ✅ 2025-11-18
 - [ ] Confirm Ziggy Booking
 - [ ] Megamenu - Dean

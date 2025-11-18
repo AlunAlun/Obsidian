@@ -11,14 +11,16 @@
 ## To-do
 
 - [ ] Fill flight details passport etc for Thailand
-- [ ] Call Covisa
+- [ ] Find another boiler person
+- [x] Call Covisa ✅ 2025-11-18
 - [ ] Confirm Ziggy Booking
+- [ ] Megamenu - Dean
 - [ ] Write to school to say Gabi hospital
 - [x] Call washing machine people ✅ 2025-11-18
-- [ ] Remind Uday/Deepa about Testimonial
+- [ ] Email Uday thanks and proposal
 - [x] Check Santi Freeverse email and schedule final board ✅ 2025-11-18
 - [ ] Draft new LAOS article and check socials
-- [ ] Chat to Dean
+- [x] Chat to Dean ✅ 2025-11-18
 	- [ ] V-Align strategy
 	- [ ] Articles
 

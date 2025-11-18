@@ -16,7 +16,7 @@
 - [ ] Write to school to say Gabi hospital
 - [x] Call washing machine people ✅ 2025-11-18
 - [ ] Remind Uday/Deepa about Testimonial
-- [ ] Check Santi Freeverse email and schedule final board
+- [x] Check Santi Freeverse email and schedule final board ✅ 2025-11-18
 - [ ] Draft new LAOS article and check socials
 - [ ] Chat to Dean
 	- [ ] V-Align strategy

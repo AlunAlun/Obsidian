@@ -11,6 +11,7 @@
 ## To-do
 
 - [ ] Fill flight details passport etc for Thailand
+- [ ] Call Covisa
 - [ ] Confirm Ziggy Booking
 - [ ] Write to school to say Gabi hospital
 - [ ] Call washing machine people

@@ -15,7 +15,7 @@
 - [ ] GPT for auto deck analysis
 	- [ ] landing page for deck analysis
 - [x] Call Covisa ✅ 2025-11-18
-- [ ] Confirm Ziggy Booking
+- [x] Confirm Ziggy Booking ✅ 2025-11-18
 - [ ] Megamenu - Dean
 - [ ] Write to school to say Gabi hospital
 - [x] Call washing machine people ✅ 2025-11-18

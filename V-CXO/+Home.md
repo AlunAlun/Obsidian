@@ -10,12 +10,13 @@
 
 ## To-do
 
-- [x] Fill flight details passport etc for Thailand ✅ 2025-11-18
+
+- [ ] Move sublime vault to iCloud
 - [ ] Make Blockchain article into whitepaper
 - [ ] Find another boiler person
 - [ ] GPT for auto deck analysis
 	- [ ] landing page for deck analysis
-- [x] Call Covisa ✅ 2025-11-18
+
 - [ ] Chase Ziggy Booking
 - [ ] Megamenu - Dean
 

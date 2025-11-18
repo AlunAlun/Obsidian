@@ -10,7 +10,7 @@
 
 ## To-do
 
-- [ ] Fill flight details passport etc for Thailand
+- [x] Fill flight details passport etc for Thailand ✅ 2025-11-18
 - [ ] Find another boiler person
 - [ ] GPT for auto deck analysis
 	- [ ] landing page for deck analysis

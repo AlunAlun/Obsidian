@@ -14,7 +14,7 @@
 - [ ] Call Covisa
 - [ ] Confirm Ziggy Booking
 - [ ] Write to school to say Gabi hospital
-- [ ] Call washing machine people
+- [x] Call washing machine people ✅ 2025-11-18
 - [ ] Remind Uday/Deepa about Testimonial
 - [ ] Check Santi Freeverse email and schedule final board
 - [ ] Draft new LAOS article and check socials

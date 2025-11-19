@@ -1,8 +1,0 @@
-- [ ] Get skipper liability insurance https://www.pantaenius.com/es-en/insurance/skipper-liability/
-- [x] Buy IMRAY guide to Mallorca ✅ 2025-05-27
-- [x] Buy anchoring book ✅ 2025-05-26
-- [ ] Freedive course
-- [ ] Subscribe navionics and download med map
-- [ ] Download navily
-- [x] RYA logbook ✅ 2025-05-27
-- [ ] 

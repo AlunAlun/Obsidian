@@ -12,12 +12,13 @@
 
 
 - [ ] Move sublime vault to iCloud
+- [ ] School Xmas products
 - [ ] Make Blockchain article into whitepaper
 - [ ] Find another boiler person
 - [ ] GPT for auto deck analysis
 	- [ ] landing page for deck analysis
 
-- [ ] Chase Ziggy Booking
+- [x] Chase Ziggy Booking ✅ 2025-11-19
 - [ ] Megamenu - Dean
 
 - [ ] Email Uday thanks and proposal

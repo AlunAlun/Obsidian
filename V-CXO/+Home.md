@@ -21,7 +21,7 @@
 - [x] Chase Ziggy Booking ✅ 2025-11-19
 - [ ] Megamenu - Dean
 
-- [ ] Email Uday thanks and proposal
+- [x] Email Uday thanks and proposal ✅ 2025-11-19
 
 - [ ] Chase Toni new LAOS article and check socials
 
